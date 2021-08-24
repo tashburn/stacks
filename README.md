@@ -47,4 +47,4 @@ My preferred startup resources.
 # Banking
 - https://mercury.com/
 
-Document Signing: Smallpdf, Docusign, Hellosign, Rippling (part of service)
+*Document Signing*: Smallpdf, Docusign, Hellosign, Rippling (part of service)

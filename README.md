@@ -68,6 +68,4 @@ __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 
 # Accountants
 - (Brittiney recommended some)
-- YC: https://bookface.ycombinator.com/posts/55531
-  - Wesley Wierson, LEAH Labs(W19): If non-dilutive funding/federal grants like SBIRs are in your future (assuming possible since you're in bio!) then you'd want someone familiar with federal audits. We've had great work done by Accounting and Business Solutions of Eastern Carolina after receiving NSF SBIR money. They also bring in a lot of the HR stuff required for the federal SBIR audits process as well. Happy to intro.
-	
+- https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)

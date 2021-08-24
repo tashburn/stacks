@@ -1,17 +1,15 @@
 
-My preferred startup resources.
-
-# Categories
+# Startup Resources
 - [Dev](/dev.md)
 - Business
 - Design
 
-# Wikis
+## Wikis
 - Confluence
 - Notion.so
 - [FocalBoard](https://www.focalboard.com/)
 
-# Website No-Code Builders
+## Website No-Code Builders
 - Best practice for early stage: design in Figma, build in Webflow
 - https://bookface.ycombinator.com/posts/55125	
 

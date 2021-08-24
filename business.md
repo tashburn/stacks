@@ -21,6 +21,7 @@
 
 ## Banking
 - https://mercury.com/
+- Brex
 
 ## Document Signing
 - Smallpdf

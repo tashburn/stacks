@@ -2,7 +2,7 @@
 My preferred startup resources.
 
 # Categories
-- [Dev](/dev.html)
+- [Dev](/dev.md)
 - Business
 - Design
 

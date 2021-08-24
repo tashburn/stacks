@@ -27,6 +27,8 @@ My preferred startup resources.
 
 # Lists of Tech Stacks
 - https://about.gitlab.com/handbook/business-ops/tech-stack/
+- https://stackshare.io/
+- https://www.btw.so/open-source-alternatives
 
 # Chat
 - Discord
@@ -44,3 +46,5 @@ My preferred startup resources.
 
 # Banking
 - https://mercury.com/
+
+Document Signing: Smallpdf, Docusign, Hellosign, Rippling (part of service)

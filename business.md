@@ -22,7 +22,11 @@
 ## Banking
 - https://mercury.com/
 
-__Document Signing__: Smallpdf, Docusign, Hellosign, Rippling (part of service)
+## Document Signing
+- Smallpdf
+- Docusign
+- Hellosign
+- Rippling (part of service)
 
 ## Community Software
 - https://joinmastodon.org/
@@ -34,10 +38,20 @@ __Document Signing__: Smallpdf, Docusign, Hellosign, Rippling (part of service)
 - (Brittiney recommended some)
 - https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
 
-Conversion Flow: Savvy
-Cap Table: Pulley
-Analytics: Posthog
-Remote Team Payments: Deel
-Legal Docs: Clerky
+## Conversion Flow
+- Savvy
+
+## Cap Table
+- Carta?
+- Pulley
+
+## Analytics
+- Posthog
+
+## Remote Team Payments
+- Deel
+
+## Legal Docs
+- Clerky
 
 

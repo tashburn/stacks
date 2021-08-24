@@ -2,17 +2,21 @@
 My preferred startup resources.
 
 # Categories
+- Dev
+- Business
+- Design
 
 # Wikis
 - Confluence
 - Notion.so
-- https://www.focalboard.com/
+- [FocalBoard](https://www.focalboard.com/)
 
 # Website No-Code Builders
 - Webflow
+- https://bookface.ycombinator.com/posts/55125	
 
 # Issue Tracking
-- https://linear.app
+- [Linear](https://linear.app)
 - Closed
 
 # Starter Databases (flexible)
@@ -48,3 +52,22 @@ My preferred startup resources.
 - https://mercury.com/
 
 __Document Signing__: Smallpdf, Docusign, Hellosign, Rippling (part of service)
+
+__Fonts__: [Inter](https://rsms.me/inter/)
+
+__Design Inspiration__: [Carta](https://carta.com/)
+
+# Community Software
+- https://joinmastodon.org/
+
+# React components
+__Spreadsheet__: https://bookface.ycombinator.com/posts/55518
+
+# Funding
+(see lists/investors.md)
+
+# Accountants
+- (Brittiney recommended some)
+- YC: https://bookface.ycombinator.com/posts/55531
+  - Wesley Wierson, LEAH Labs(W19): If non-dilutive funding/federal grants like SBIRs are in your future (assuming possible since you're in bio!) then you'd want someone familiar with federal audits. We've had great work done by Accounting and Business Solutions of Eastern Carolina after receiving NSF SBIR money. They also bring in a lot of the HR stuff required for the federal SBIR audits process as well. Happy to intro.
+	

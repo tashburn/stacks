@@ -12,7 +12,7 @@ My preferred startup resources.
 - [FocalBoard](https://www.focalboard.com/)
 
 # Website No-Code Builders
-- Webflow
+- Best Practice: design in Figma, build in Webflow
 - https://bookface.ycombinator.com/posts/55125	
 
 # Issue Tracking

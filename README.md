@@ -69,3 +69,5 @@ __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 # Accountants
 - (Brittiney recommended some)
 - https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
+
+YC's company finder

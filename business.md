@@ -1,4 +1,4 @@
-# [Stack](/stack) / Business
+# [Stack](/README.md) / Business
 {:.no_toc}
 
 * TOC

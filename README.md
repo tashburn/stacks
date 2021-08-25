@@ -1,5 +1,5 @@
 
-# 🛠 Startup Resources
+# 🛠 Resources
 - [Business](/business.md)
 - [Design](/design.md)
 - [Technical](/technical.md)

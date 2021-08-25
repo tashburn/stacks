@@ -71,6 +71,8 @@
 
 
 ## Lists of Resources
+- YC Company Directory: https://bookface.ycombinator.com/directory
+- https://stackshare.io/
 - http://startuptools.pbworks.com/w/page/17974963/FrontPage
 - https://www.startupschool.org/library
 - https://github.com/leonar15/startup-checklist
@@ -86,7 +88,8 @@
 - Founder to CEO: How to build a great company from the ground up: https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/mobilebasic#heading=h.pdmqf3646hgt
 - indie software makers: https://medium.com/@julienvallini/10-services-to-ship-at-light-speed-%EF%B8%8F-154b576eb4f
 - startup deals: https://github.com/dakshshah96/awesome-startup-credits
-
+- https://about.gitlab.com/handbook/business-ops/tech-stack/
+- open source alternatives: https://www.btw.so/open-source-alternatives
 
 ## Open Source
 - http://ivory.idyll.org/blog/2018-how-open-is-too-open.html

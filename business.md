@@ -1,6 +1,7 @@
 # Business
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 ## Business Models
 - open source:

@@ -1,4 +1,5 @@
 # Business
+{:.no_toc}
 
 * TOC
 {:toc}

@@ -1,5 +1,8 @@
-
 # Design
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Lists
 - design tools list: https://github.com/LisaDziuba/Awesome-Design-Tools
@@ -52,11 +55,4 @@
 
 ## HTML Emails
 - https://mailstudio.app/
-
-
-
-
-
-
-
 

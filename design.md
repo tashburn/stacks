@@ -1,4 +1,4 @@
-# [🏡](/README.md) / Design
+# 🛠 [Resources](/README.md) / Design
 {:.no_toc}
 
 * TOC

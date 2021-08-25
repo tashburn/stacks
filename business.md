@@ -4,7 +4,7 @@
 * TOC
 {:toc}
 
-## Business Models
+# Business Models
 - open source:
   - https://redislabs.com/community/licenses/
   - Open core, big business exhaust, foundations, and dual licensing all lead to models that fund development.
@@ -32,7 +32,7 @@
 - 10 types of innovation: https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
 
 
-## Advice
+# Advice
 - “If you can’t be first in a category, set up a new category you can be first in.”
 - The Dilbert principle: Be in the top 25% in two things (too hard to be the best in 1 thing)
 - “WHAT INTERESTING THING ARE YOU WORKING ON? WHY IS THAT INTERESTING TO YOU? WHAT’S SURPRISING ABOUT THAT? IS ANYBODY ELSE THINKING ABOUT THIS?”
@@ -72,7 +72,7 @@
 - lean product development flow: https://www.youtube.com/watch?v=L6v6W7jkwok
 
 
-## Lists of Resources
+# Lists of Resources
 - YC Company Directory: https://bookface.ycombinator.com/directory
 - https://stackshare.io/
 - http://startuptools.pbworks.com/w/page/17974963/FrontPage
@@ -93,43 +93,43 @@
 - https://about.gitlab.com/handbook/business-ops/tech-stack/
 - open source alternatives: https://www.btw.so/open-source-alternatives
 
-## Open Source
+# Open Source
 - http://ivory.idyll.org/blog/2018-how-open-is-too-open.html
 
 
-## Wikis
+# Wikis
 - Confluence
 - Notion.so
 - [FocalBoard](https://www.focalboard.com/)
 
-## Chat
+# Chat
 - Discord
 - Open
 
-## Blogging
+# Blogging
 - Substack
 - Open
 
-## Building in public
+# Building in public
 - https://bookface.ycombinator.com/posts/49718
 
-## Bookkeeping
+# Bookkeeping
 - https://bookface.ycombinator.com/posts/53345
 
-## Banking
+# Banking
 - https://mercury.com/
 - Brex
 
-## Document Signing
+# Document Signing
 - Smallpdf
 - Docusign
 - Hellosign
 - Rippling (part of service)
 
-## Community Software
+# Community Software
 - https://joinmastodon.org/
 
-## Funding
+# Funding
 (see lists/investors.md)
 - How to do a good crowdfunding video: https://www.videopixie.com/blog/crowdfunding-video-cost-benchmark-what-works-how-much-to-spend
 - What funding options are available to startups?
@@ -152,31 +152,31 @@
 - Series A diligence checklist: https://blog.ycombinator.com/ycs-series-a-diligence-checklist/
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/
 
-## Accountants
+# Accountants
 - (Brittiney recommended some)
 - https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
 
-## Conversion Flow
+# Conversion Flow
 - Savvy
 
-## Cap Table
+# Cap Table
 - Carta?
 - Pulley
 
-## Analytics
+# Analytics
 - Posthog
 
-## Remote Team Payments
+# Remote Team Payments
 - Deel
 
-## Legal Docs
+# Legal Docs
 - Clerky
 
-## Launching
+# Launching
 - How to launch: https://blog.amplifr.com/en/amplifr-on-producthunt/
 - checklists: https://www.smashingmagazine.com/2009/06/45-incredibly-useful-web-design-checklists-and-questionnaires/
 
-## Marketing
+# Marketing
 - How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
 - How to market your product/service/company: https://news.ycombinator.com/item?id=13853199
 - How to do a Kickstarter: https://www.shopmoment.com/momentist/the-complete-guide-to-succeeding-on-kickstarter-in-2017-everything-we-learned-in-raising-1-5m
@@ -190,7 +190,7 @@
 - https://i.imgur.com/k1758Dh.png?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
 
 
-## Sales
+# Sales
 - YC Sales Workshop with Steli: https://close.wistia.com/medias/cwdi8tt1d7
 - https://bookface.ycombinator.com/posts/53528
 - https://a16z.com/2018/09/02/sales-startups-technical-founders/
@@ -199,7 +199,7 @@
 
 
 
-## Team Building / Management
+# Team Building / Management
 - How to build an effective team - https://hbr.org/2017/01/great-teams-are-about-personalities-not-just-skills
 - https://ronjeffries.com/articles/018-01ff/abandon-1/
 - https://daedtech.com/how-to-keep-your-best-programmers
@@ -213,7 +213,7 @@
 
 
 
-## Hiring
+# Hiring
 - How to interview someone: “Lesson number one, when people ask me what [interviewing] tips would I give, is aim for the heart, not the head. Once you get the heart, you can go to the head. Once you get the heart and the head, then you’ll have a pathway to the soul.”
 - Interviewing:
   - https://github.com/yangshun/front-end-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
@@ -237,12 +237,12 @@
 - payments and working terms for freelance coders: https://bookface.ycombinator.com/posts/55094
 
 
-## Equity
+# Equity
 - cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
 
 
 
-## Salary / Compensation
+# Salary / Compensation
 - https://quip.com/HEB3Ah9dYD6o
 - http://digg.com/2018/best-worst-paid-jobs-tech-sector
 - http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
@@ -254,43 +254,43 @@
 - negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 
-## Offices
+# Offices
 - ffice design for technical teams: https://news.ycombinator.com/item?id=16864925&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
 - https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
 
-## Pricing
+# Pricing
 - How to price your product/service: https://news.ycombinator.com/item?id=13840282
 - https://conversionxl.com/blog/pricing-experiments-you-might-not-know-but-can-learn-from/
 - freemium: https://www.chrisfrantz.com/how-to-kill-a-unicorn/
 - no free plan: https://nofreeplan.com/
 
 
-## Exiting
+# Exiting
 - How to sell a company: https://medium.com/@awilkinson/the-berkshire-hathaway-of-the-internet-391a8ee83db#.uvou4mrzo
 - https://news.crunchbase.com/news/your-vc-needs-a-billion-dollar-exit-you-do-not/
 - https://medium.com/@todsacerdoti/part-2-100m-to-1b-non-obvious-lessons-learned-selling-to-yahoo-aeab9ad6cc8a
 
-## Meetings
+# Meetings
 - Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
 
-## Customer Acquisition
+# Customer Acquisition
 - strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
 
-## Networking
+# Networking
 - http://firstround.com/review/how-to-become-insanely-well-connected/
 
-## Productivity
+# Productivity
 - https://qotoqot.com/blog/improving-focus/
 
-## Patents
+# Patents
 - cautionary tales:
   - https://patentpandas.org/stories/crowdfunding-backer-patented-my-project
   - https://patentpandas.org/stories/company-patented-my-idea
 
-## Naming
+# Naming
 - https://failory.com/naming-a-startup
 
-## Remote Work
+# Remote Work
 - https://news.ycombinator.com/item?id=15889939
 - http://remotehabits.com/?ref=hackernews
 - https://blog.ghost.org/5/
@@ -300,7 +300,7 @@
 - https://bookface.ycombinator.com/posts/44928
 
 
-## Finding Cofounder
+# Finding Cofounder
 - http://foundersatwork.posthaven.com/grow-the-puzzle-around-you
 - Jessica: When it came to investing, I had something that my cofounders didn’t have: I was the Social Radar. I couldn’t judge our applicants’ technical ability, or even most of the ideas. My cofounders were experts at those things.  I looked at qualities of the applicants my cofounders couldn't see.  Did they seem earnest? Were they determined? Were they flexible-minded?  And most importantly, what was the relationship between the cofounders like? While my partners discussed the idea with the applicants, I usually sat observing silently. Afterward, they would turn to me and ask, "Should we fund them?"
 From the beginning I was careful about only funding earnest people. Back then, I never envisioned the people we funded growing into a community of thousands of YC alumni, but I always tried to create an asshole-free culture. If I could tell someone was a conceited asshole, we didn’t fund them. I’m sure we’ve since funded some conceited assholes, but early on I was pretty rigid about this. And I think it’s the basis of the culture of our alumni community.
@@ -308,17 +308,17 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://founderslist.com/cofounders
 
 
-## Financial Models
+# Financial Models
 - https://www.fivecastfinancial.com/guides/financial-modeling-for-startups-an-introduction/
 - https://www.stephnass.com/blog/startup-financial-model
 
 
-## Legal
+# Legal
 - contractor freelance contract: https://plainfreelancecontract.com/
 
-## Communities
+# Communities
 - for bootstrapped software developers: https://discuss.bootstrapped.fm/
 
-## Decision-Making
+# Decision-Making
 - https://candost.blog/how-to-stop-endless-discussions/
 

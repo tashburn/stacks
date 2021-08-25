@@ -1,4 +1,4 @@
-# Business
+# Stack / Business
 {:.no_toc}
 
 * TOC

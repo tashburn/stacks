@@ -1,4 +1,8 @@
 # Technical
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Lists of tools
 - free services for developers: https://free-for.dev/#/
@@ -83,8 +87,6 @@ How to instrument a software service: https://honeycomb.io/blog/2017/01/instrume
 - https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
 - https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/#.WjlcxXHbXuU.hackernews
 
-
-
 ## Authentication
 - Best practices:
   - https://stackoverflow.com/questions/3391242/should-i-hash-the-password-before-sending-it-to-the-server-side
@@ -93,11 +95,8 @@ How to instrument a software service: https://honeycomb.io/blog/2017/01/instrume
   - https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
   - https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html
 
-
 ## Scraping
 - https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
-
-
 
 ## SEO
 - how to do SEO: https://github.com/joshbuchea/HEAD#meta-not-recommended

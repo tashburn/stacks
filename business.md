@@ -1,5 +1,7 @@
 # Business
 
+* TOC {:toc}
+
 ## Business Models
 - open source:
   - https://redislabs.com/community/licenses/

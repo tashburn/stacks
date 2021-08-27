@@ -32,6 +32,9 @@
 - design tools list: https://github.com/LisaDziuba/Awesome-Design-Tools
 - design blocks: https://www.froala.com/design-blocks#playground
 
+## Software
+- Parade: Makes it easy to create a website, marketing emails, social media posts, and more, all without a graphic designer
+
 ## Templates
 - Google design docs: https://www.industrialempathy.com/posts/design-docs-at-google/
 

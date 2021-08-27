@@ -4,6 +4,8 @@
 * TOC
 {:toc}
 
+# Soft
+
 ## Lists of tools
 - free services for developers: https://free-for.dev/#/
 - free tiers of tools/services/libraries/apis for devs: https://free-for.dev/#/
@@ -37,7 +39,6 @@
 - front end checklist: https://github.com/thedaviddias/Front-End-Checklist
 - simple tech deployment: https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1
 
-
 ## Website Building
 - Best practice for early stage: design in Figma, build in Webflow
 - https://bookface.ycombinator.com/posts/55125	
@@ -45,6 +46,21 @@
 - MVP: https://www.process.st/mvp-app/
 - getting it to work in China: https://chanind.github.io/china/2019/01/19/launching-an-app-or-website-in-china.html
 - https://sprune.com/blog/state-of-self-serve-website-building-in-2020/
+
+
+# Frontend
+
+## React components
+__Spreadsheet__: https://bookface.ycombinator.com/posts/55518
+
+## CSS
+- Tailwind UI / CSS
+- Bulma
+
+
+
+
+# Backend
 
 ## Starter Databases (flexible)
 - ArangoDB
@@ -61,13 +77,6 @@
 ## Issue Tracking
 - [Linear](https://linear.app)
 - Closed
-
-## React components
-__Spreadsheet__: https://bookface.ycombinator.com/posts/55518
-
-## CSS
-- Tailwind UI / CSS
-- Bulma
 
 ## Https Proxy
 - Caddy

@@ -2,5 +2,7 @@
 # 🛠 Resources
 - [Business](/business.md)
 - [Design](/design.md)
-- [Technical](/technical.md)
-
+- Technical
+  - [Soft](/technical/soft.md)
+  - [Frontend](/technical/frontend.md)
+  - [Backend](/technical/backend.md)

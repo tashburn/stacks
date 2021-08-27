@@ -6,12 +6,12 @@
 {:toc}
 
 
-- css: Tailwind UI/CSS, Bulma
-- css components: Ant Design
-- ajax: https://htmx.org/
-- JS Charting: [ECharts](https://echarts.apache.org/en/index.html), ChartJS 
-- monitoring/analytics: Google Analytics, Mixpanel, Sentry
-- JS UI Lib: React, Vue, Svelte/SvelteKit/Sapper
-- react components spreadsheet: https://bookface.ycombinator.com/posts/55518
+- __css__: Tailwind UI/CSS, Bulma
+- __css components__: Ant Design
+- __ajax__: https://htmx.org/
+- __js Charting__: [ECharts](https://echarts.apache.org/en/index.html), ChartJS 
+- __monitoring/analytics__: Google Analytics, Mixpanel, Sentry
+- __js ui lib__: React, Vue, Svelte/SvelteKit/Sapper
+- __react / components / spreadsheet__: https://bookface.ycombinator.com/posts/55518
 
 

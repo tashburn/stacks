@@ -47,6 +47,32 @@
 - getting it to work in China: https://chanind.github.io/china/2019/01/19/launching-an-app-or-website-in-china.html
 - https://sprune.com/blog/state-of-self-serve-website-building-in-2020/
 
+## Domain Names
+- How to get an expiring domain: https://bookface.ycombinator.com/posts/5842
+- Get domain from big company: https://bookface.ycombinator.com/posts/8999
+- Buy from big company: https://bookface.ycombinator.com/posts/11602?source=digest
+
+## Rate Limiting
+- https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
+- https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/#.WjlcxXHbXuU.hackernews
+
+## Scraping
+- https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
+
+## SEO
+- how to do SEO: https://github.com/joshbuchea/HEAD#meta-not-recommended
+- Be sure to follow basic SEO techniques like on-page keyword optimization (but not keyword stuffing!), making use of your images’ alt text, and including social sharing buttons.
+- https://blog.teamgate.com/400-free-resources-to-grow-your-business/
+- check backlinks at majestic.com
+- clickbait: https://digg.com/2017/most-popular-headline-formats
+- http://katemats.com/what-every-programmer-should-know-about-seo/
+- https://apollodigital.io/blog/seo-case-study
+
+## Code Deployment
+- checklist: https://github.com/mr-mig/going-to-production
+
+
+
 
 # Frontend
 
@@ -56,6 +82,26 @@ __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 ## CSS
 - Tailwind UI / CSS
 - Bulma
+
+## Frontend
+- https://htmx.org/
+
+## JS Charting
+- https://echarts.apache.org/en/index.html
+- ChartJS 
+
+## Web Monitoring/Analytics
+- Google Analytics
+- Mixpanel
+- Sentry
+
+## Web CSS Components
+- Ant Design
+
+## JS UI Lib
+- React
+- Vue
+- Svelte / SvelteKit / Sapper
 
 
 
@@ -84,17 +130,6 @@ __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 ## Deployment
 - Ansible, Terraform, Docker, Kubernetes, Civo, K3s
 
-## Frontend
-- https://htmx.org/
-
-## JS Charting
-- https://echarts.apache.org/en/index.html
-- ChartJS 
-
-## Web Monitoring/Analytics
-- Google Analytics
-- Mixpanel
-- Sentry
 
 ## Backend monitoring
 - Grafana
@@ -123,16 +158,8 @@ __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 - Firebase
 - Meteor
 
-## Web CSS Components
-- Ant Design
-
 ## Automation
 - Zapier
-
-## JS UI Lib
-- React
-- Vue
-- Svelte / SvelteKit / Sapper
 
 ## JS Server Frameworks
 - Nextjs
@@ -162,11 +189,6 @@ __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 ## Instrumentation
 How to instrument a software service: https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/
 
-## Domain Names
-- How to get an expiring domain: https://bookface.ycombinator.com/posts/5842
-- Get domain from big company: https://bookface.ycombinator.com/posts/8999
-- Buy from big company: https://bookface.ycombinator.com/posts/11602?source=digest
-
 ## CMS
 - Sanity
 - GraphCMS
@@ -193,27 +215,8 @@ How to instrument a software service: https://honeycomb.io/blog/2017/01/instrume
 - SES
 - Sendgrid
 
-## Rate Limiting
-- https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
-- https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/#.WjlcxXHbXuU.hackernews
-
-## Scraping
-- https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
-
 ## Caching
 - Redis
-
-## SEO
-- how to do SEO: https://github.com/joshbuchea/HEAD#meta-not-recommended
-- Be sure to follow basic SEO techniques like on-page keyword optimization (but not keyword stuffing!), making use of your images’ alt text, and including social sharing buttons.
-- https://blog.teamgate.com/400-free-resources-to-grow-your-business/
-- check backlinks at majestic.com
-- clickbait: https://digg.com/2017/most-popular-headline-formats
-- http://katemats.com/what-every-programmer-should-know-about-seo/
-- https://apollodigital.io/blog/seo-case-study
-
-## Code Deployment
-- checklist: https://github.com/mr-mig/going-to-production
 
 ## Web Building
 - html boilerplate: https://www.matuzo.at/blog/html-boilerplate/

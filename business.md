@@ -4,9 +4,6 @@
 * TOC
 {:toc}
 
-# Accountants
-- (Brittiney recommended some)
-- https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
 
 # Advice
 - “If you can’t be first in a category, set up a new category you can be first in.”
@@ -46,6 +43,7 @@
 - https://www.joisig.com/rules-software-startup-minimum-hassle
 - tips on defending a physical product: https://medium.com/@molson_hart/starting-a-physical-product-company-youre-gonna-need-a-lawyer-13b2eecebc9f
 - lean product development flow: https://www.youtube.com/watch?v=L6v6W7jkwok
+- personal productivity: https://qotoqot.com/blog/improving-focus/
 
 
 
@@ -64,6 +62,9 @@
 
 # Bookkeeping
 - https://bookface.ycombinator.com/posts/53345
+- Accountants
+  - (Brittiney recommended some)
+  - https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
 
 
 
@@ -108,6 +109,7 @@
 # Community Software
 - https://joinmastodon.org/
 
+
 # Compensation
 - https://quip.com/HEB3Ah9dYD6o
 - http://digg.com/2018/best-worst-paid-jobs-tech-sector
@@ -119,12 +121,12 @@
 - Equity: cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
 - negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
-# Conversion Flow
-- Savvy
+# Growth
+- Conversion Flow
+  - Savvy
+- Customer Acquisition
+  - strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
 
-
-# Customer Acquisition
-- strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
 
 # Decision-Making
 - https://candost.blog/how-to-stop-endless-discussions/
@@ -134,7 +136,6 @@
 - Docusign
 - Hellosign
 - Rippling (part of service)
-
 
 
 # Exiting
@@ -212,6 +213,9 @@ From the beginning I was careful about only funding earnest people. Back then, I
 # Legal
 - documents: Clerky
 - freelance contract: https://plainfreelancecontract.com/
+- patents: cautionary tales:
+  - https://patentpandas.org/stories/crowdfunding-backer-patented-my-project
+  - https://patentpandas.org/stories/company-patented-my-idea
 
 # Marketing
 - How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
@@ -227,8 +231,6 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://i.imgur.com/k1758Dh.png?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
 
 
-# Meetings
-- Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
 
 # Naming
 - https://failory.com/naming-a-startup
@@ -241,14 +243,6 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - ffice design for technical teams: https://news.ycombinator.com/item?id=16864925&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
 - https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
 
-
-# Patents
-- cautionary tales:
-  - https://patentpandas.org/stories/crowdfunding-backer-patented-my-project
-  - https://patentpandas.org/stories/company-patented-my-idea
-
-# Productivity
-- https://qotoqot.com/blog/improving-focus/
 
 
 # Pricing
@@ -309,7 +303,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - 1-on-1 questions: https://github.com/VGraupera/1on1-questions
 - https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory
 - culture: Entrepreneur Cindy Gallop on how to build a successful business: “There is a formula for success in business, and it goes like this: You set out to find the very best talent in the marketplace, and then give them a compelling and inspirational vision of what you want them to achieve for you and the company. Then you empower them to achieve those goals using their own skills and talents in any way they choose. If, at the same time, you demonstrate how enormously you value them, not just through compensation, but also verbally, every single day, and if you enable that talent to share in the profit that they help create for you, you’ll be successful. It’s so simple, and virtually nobody does it, because it requires a high-trust working environment, and most business environments are low-trust. In order to own the future of your business, you have to design it around trust.” Source: The Most Provocative Woman in the World: Cindy Gallop
-
+- Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
 
 # Wikis
 - Confluence

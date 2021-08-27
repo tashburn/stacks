@@ -3,6 +3,6 @@
 - [Business](/business.md)
 - [Design](/design.md)
 - Technical
-  - [Soft](/technical/soft.md)
-  - [Frontend](/technical/frontend.md)
-  - [Backend](/technical/backend.md)
+  - [Soft](/technical-soft.md)
+  - [Frontend](/technical-frontend.md)
+  - [Backend](/technical-backend.md)

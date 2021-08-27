@@ -1,4 +1,10 @@
 
+# 🛠 [Resources](/README.md) / Technical / Soft
+{:.no_toc}
+
+* TOC
+{:toc}
+
 
 ## Lists of tools
 - free services for developers: https://free-for.dev/#/

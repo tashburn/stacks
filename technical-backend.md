@@ -6,12 +6,6 @@
 {:toc}
 
 
-## Alerting
-- Uptime Robot
-- Errbit (error catcher)
-- https://speakerdeck.com/caitiem20/tackling-alert-fatigue
-- https://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/
-
 ## Automation
 - Zapier
 
@@ -22,6 +16,7 @@
 - Github actions
 - Cloudflare pages
 - Gitlab operations
+- Reflect: No-code test automation platform for web applications
 
 ## CMS
 - Sanity
@@ -64,6 +59,7 @@
 - Vultr
 - Hetzner 
 - https://dokku.com (self-hosted Heroku)
+- Porter (self-hosted Heroku
 - Primcloud
 - K3s
 
@@ -86,7 +82,12 @@
 - ORM: Prisma
 - misc: Stimulus
 
-## Monitoring
+## Monitoring / Instrumentation / Alerting
+- Uptime Robot
+- Errbit (error catcher)
+- https://speakerdeck.com/caitiem20/tackling-alert-fatigue
+- https://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/
+- Sentry: error tracking, performance monitoring
 - Grafana
 - Telegraph + Influxdb
 

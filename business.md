@@ -4,33 +4,9 @@
 * TOC
 {:toc}
 
-# Business Models
-- open source:
-  - https://redislabs.com/community/licenses/
-  - Open core, big business exhaust, foundations, and dual licensing all lead to models that fund development.
-  - https://www.influxdata.com/blog/its-time-for-the-open-source-community-to-get-real/
-  - https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it
-  - https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4
-- a taxonomy of moats: http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html?utm_source=Benedict%27s+Newsletter&utm_campaign=ae29784d0c-Benedict%27s+Newsletter+306&utm_medium=email&utm_term=0_4999ca107f-ae29784d0c-70874397&mc_cid=ae29784d0c&mc_eid=79bc2b2384
-- Marketplaces -- overcoming the chicken and the egg problem: https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem
-- Ideation:
-  - https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c
-  - https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
-  - Generation heuristics: https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/
-  - many ideas: https://wiki.nikitavoloboev.xyz/
-  - checklist: https://www.defmacro.org/2019/03/26/startup-checklist.html
-  - 20,000 startup ideas: https://unawaz.github.io/stochastic-hill-climbing/tasks/
-- startup document templates: https://news.ycombinator.com/item?id=22091603
-  - Pitch
-  - Vision
-  - Strategy
-  - Product Requirements
-  - Technical Design
-  - Product Opportunity Assessment
-  - Product Vision
-  - Run Book
-- 10 types of innovation: https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
-
+# Accountants
+- (Brittiney recommended some)
+- https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
 
 # Advice
 - “If you can’t be first in a category, set up a new category you can be first in.”
@@ -72,53 +48,86 @@
 - lean product development flow: https://www.youtube.com/watch?v=L6v6W7jkwok
 
 
-# Lists of Resources
-- YC Company Directory: https://bookface.ycombinator.com/directory
-- https://stackshare.io/
-- http://startuptools.pbworks.com/w/page/17974963/FrontPage
-- https://www.startupschool.org/library
-- https://github.com/leonar15/startup-checklist
-- http://startupstash.com/
-- https://founderkit.com/
-- https://blog.teamgate.com/400-free-resources-to-grow-your-business/
-- https://failory.com/naming-a-startup
-- https://reads.breue.com/125-places-to-post-your-startup-product-6df5b7ad3932
-- http://startuptools.pbworks.com/w/page/17974963/FrontPage
-- https://www.sideprojectchecklist.com/marketing-checklist/
-- https://abdoriani.com/cost-minimization-strategies-bootstrapped-founders-can-instantly-apply-to-save-over-10000/
-- https://www.smashingmagazine.com/2009/06/45-incredibly-useful-web-design-checklists-and-questionnaires/
-- Founder to CEO: How to build a great company from the ground up: https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/mobilebasic#heading=h.pdmqf3646hgt
-- indie software makers: https://medium.com/@julienvallini/10-services-to-ship-at-light-speed-%EF%B8%8F-154b576eb4f
-- startup deals: https://github.com/dakshshah96/awesome-startup-credits
-- https://about.gitlab.com/handbook/business-ops/tech-stack/
-- open source alternatives: https://www.btw.so/open-source-alternatives
 
-# Open Source
-- http://ivory.idyll.org/blog/2018-how-open-is-too-open.html
+# Analytics
+- Posthog
 
 
-# Wikis
-- Confluence
-- Notion.so
-- [FocalBoard](https://www.focalboard.com/)
-
-# Chat
-- Discord
-- Open
+# Banking
+- https://mercury.com/
+- Brex
 
 # Blogging
 - Substack
 - Open
 
-# Building in public
-- https://bookface.ycombinator.com/posts/49718
 
 # Bookkeeping
 - https://bookface.ycombinator.com/posts/53345
 
-# Banking
-- https://mercury.com/
-- Brex
+
+
+# Business Models
+- open source:
+  - https://redislabs.com/community/licenses/
+  - Open core, big business exhaust, foundations, and dual licensing all lead to models that fund development.
+  - https://www.influxdata.com/blog/its-time-for-the-open-source-community-to-get-real/
+  - https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it
+  - https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4
+  - open source: http://ivory.idyll.org/blog/2018-how-open-is-too-open.html
+- a taxonomy of moats: http://reactionwheel.net/2019/09/a-taxonomy-of-moats.html?utm_source=Benedict%27s+Newsletter&utm_campaign=ae29784d0c-Benedict%27s+Newsletter+306&utm_medium=email&utm_term=0_4999ca107f-ae29784d0c-70874397&mc_cid=ae29784d0c&mc_eid=79bc2b2384
+- Marketplaces -- overcoming the chicken and the egg problem: https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem
+- Ideation:
+  - https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c
+  - https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
+  - Generation heuristics: https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/
+  - many ideas: https://wiki.nikitavoloboev.xyz/
+  - checklist: https://www.defmacro.org/2019/03/26/startup-checklist.html
+  - 20,000 startup ideas: https://unawaz.github.io/stochastic-hill-climbing/tasks/
+- startup document templates: https://news.ycombinator.com/item?id=22091603
+  - Pitch
+  - Vision
+  - Strategy
+  - Product Requirements
+  - Technical Design
+  - Product Opportunity Assessment
+  - Product Vision
+  - Run Book
+- 10 types of innovation: https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
+
+# Cap Table
+- Carta?
+- Pulley
+
+
+# Chat
+- Discord
+- Open
+
+
+# Community Software
+- https://joinmastodon.org/
+
+# Compensation
+- https://quip.com/HEB3Ah9dYD6o
+- http://digg.com/2018/best-worst-paid-jobs-tech-sector
+- http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
+- Stock Options:
+  - https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/
+  - https://www.indexventures.com/optionplan/#pre_funding_valuation=6000000&initial_amount_raised=1500000&expected_funding_rounds_pre_exit=series-b-c-and-d&employee_country=us&option_allocation_level=6&technical_dna=5&mode=seed
+  - https://bookface.ycombinator.com/posts/52456
+- Equity: cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
+- negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+
+# Conversion Flow
+- Savvy
+
+
+# Customer Acquisition
+- strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
+
+# Decision-Making
+- https://candost.blog/how-to-stop-endless-discussions/
 
 # Document Signing
 - Smallpdf
@@ -126,8 +135,27 @@
 - Hellosign
 - Rippling (part of service)
 
-# Community Software
-- https://joinmastodon.org/
+
+
+# Exiting
+- How to sell a company: https://medium.com/@awilkinson/the-berkshire-hathaway-of-the-internet-391a8ee83db#.uvou4mrzo
+- https://news.crunchbase.com/news/your-vc-needs-a-billion-dollar-exit-you-do-not/
+- https://medium.com/@todsacerdoti/part-2-100m-to-1b-non-obvious-lessons-learned-selling-to-yahoo-aeab9ad6cc8a
+
+# Finding a Cofounder
+- http://foundersatwork.posthaven.com/grow-the-puzzle-around-you
+- Jessica: When it came to investing, I had something that my cofounders didn’t have: I was the Social Radar. I couldn’t judge our applicants’ technical ability, or even most of the ideas. My cofounders were experts at those things.  I looked at qualities of the applicants my cofounders couldn't see.  Did they seem earnest? Were they determined? Were they flexible-minded?  And most importantly, what was the relationship between the cofounders like? While my partners discussed the idea with the applicants, I usually sat observing silently. Afterward, they would turn to me and ask, "Should we fund them?"
+From the beginning I was careful about only funding earnest people. Back then, I never envisioned the people we funded growing into a community of thousands of YC alumni, but I always tried to create an asshole-free culture. If I could tell someone was a conceited asshole, we didn’t fund them. I’m sure we’ve since funded some conceited assholes, but early on I was pretty rigid about this. And I think it’s the basis of the culture of our alumni community.
+- https://news.ycombinator.com/item?id=20266463
+- https://founderslist.com/cofounders
+
+
+
+# Financial Models
+- https://www.fivecastfinancial.com/guides/financial-modeling-for-startups-an-introduction/
+- https://www.stephnass.com/blog/startup-financial-model
+
+
 
 # Funding
 (see lists/investors.md)
@@ -151,66 +179,6 @@
 - alternative: https://bookface.ycombinator.com/posts/47004
 - Series A diligence checklist: https://blog.ycombinator.com/ycs-series-a-diligence-checklist/
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/
-
-# Accountants
-- (Brittiney recommended some)
-- https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
-
-# Conversion Flow
-- Savvy
-
-# Cap Table
-- Carta?
-- Pulley
-
-# Analytics
-- Posthog
-
-# Remote Team Payments
-- Deel
-
-# Legal Docs
-- Clerky
-
-# Launching
-- How to launch: https://blog.amplifr.com/en/amplifr-on-producthunt/
-- checklists: https://www.smashingmagazine.com/2009/06/45-incredibly-useful-web-design-checklists-and-questionnaires/
-
-# Marketing
-- How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
-- How to market your product/service/company: https://news.ycombinator.com/item?id=13853199
-- How to do a Kickstarter: https://www.shopmoment.com/momentist/the-complete-guide-to-succeeding-on-kickstarter-in-2017-everything-we-learned-in-raising-1-5m
-- checklist: https://www.sideprojectchecklist.com/
-- podcasts: https://ahrefs.com/blog/podcast-advertising/
-- online advertising, selling on amazon and qvc: https://starterstory.com/stories/how-two-unlikely-partners-invented-the-upcart-and-went-viral-on-qvc
-- emails: https://bookface.ycombinator.com/posts/38216
-- marketing for engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
-- https://blog.saleswhale.com/3-lessons-from-saleswhales-successful-abm-campaign-that-led-to-210000-revenue
-- get first 1000 users: https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got
-- https://i.imgur.com/k1758Dh.png?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
-
-
-# Sales
-- YC Sales Workshop with Steli: https://close.wistia.com/medias/cwdi8tt1d7
-- https://bookface.ycombinator.com/posts/53528
-- https://a16z.com/2018/09/02/sales-startups-technical-founders/
-- selling to SMBs: https://bookface.ycombinator.com/posts/55284#comment-140031
-
-
-
-
-# Team Building / Management
-- How to build an effective team - https://hbr.org/2017/01/great-teams-are-about-personalities-not-just-skills
-- https://ronjeffries.com/articles/018-01ff/abandon-1/
-- https://daedtech.com/how-to-keep-your-best-programmers
-- http://typicalprogrammer.com/why-dont-software-development-methodologies-work
-- build good culture: https://bookface.ycombinator.com/posts/9519
-- https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b
-- https://getweeklyupdate.com/manager-guide
-- 1-on-1 questions: https://github.com/VGraupera/1on1-questions
-- https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory
-- culture: Entrepreneur Cindy Gallop on how to build a successful business: “There is a formula for success in business, and it goes like this: You set out to find the very best talent in the marketplace, and then give them a compelling and inspirational vision of what you want them to achieve for you and the company. Then you empower them to achieve those goals using their own skills and talents in any way they choose. If, at the same time, you demonstrate how enormously you value them, not just through compensation, but also verbally, every single day, and if you enable that talent to share in the profit that they help create for you, you’ll be successful. It’s so simple, and virtually nobody does it, because it requires a high-trust working environment, and most business environments are low-trust. In order to own the future of your business, you have to design it around trust.” Source: The Most Provocative Woman in the World: Cindy Gallop
-
 
 
 # Hiring
@@ -237,26 +205,51 @@
 - payments and working terms for freelance coders: https://bookface.ycombinator.com/posts/55094
 
 
-# Equity
-- cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
+# Launching
+- How to launch: https://blog.amplifr.com/en/amplifr-on-producthunt/
+- checklists: https://www.smashingmagazine.com/2009/06/45-incredibly-useful-web-design-checklists-and-questionnaires/
+
+# Legal
+- documents: Clerky
+- freelance contract: https://plainfreelancecontract.com/
+
+# Marketing
+- How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
+- How to market your product/service/company: https://news.ycombinator.com/item?id=13853199
+- How to do a Kickstarter: https://www.shopmoment.com/momentist/the-complete-guide-to-succeeding-on-kickstarter-in-2017-everything-we-learned-in-raising-1-5m
+- checklist: https://www.sideprojectchecklist.com/
+- podcasts: https://ahrefs.com/blog/podcast-advertising/
+- online advertising, selling on amazon and qvc: https://starterstory.com/stories/how-two-unlikely-partners-invented-the-upcart-and-went-viral-on-qvc
+- emails: https://bookface.ycombinator.com/posts/38216
+- marketing for engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
+- https://blog.saleswhale.com/3-lessons-from-saleswhales-successful-abm-campaign-that-led-to-210000-revenue
+- get first 1000 users: https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got
+- https://i.imgur.com/k1758Dh.png?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
 
 
+# Meetings
+- Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
 
-# Salary / Compensation
-- https://quip.com/HEB3Ah9dYD6o
-- http://digg.com/2018/best-worst-paid-jobs-tech-sector
-- http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
-- Stock Options:
-  - https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/
-  - https://www.indexventures.com/optionplan/#pre_funding_valuation=6000000&initial_amount_raised=1500000&expected_funding_rounds_pre_exit=series-b-c-and-d&employee_country=us&option_allocation_level=6&technical_dna=5&mode=seed
-  - https://bookface.ycombinator.com/posts/52456
+# Naming
+- https://failory.com/naming-a-startup
 
-- negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
+# Networking
+- http://firstround.com/review/how-to-become-insanely-well-connected/
 
 # Offices
 - ffice design for technical teams: https://news.ycombinator.com/item?id=16864925&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
 - https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
+
+
+# Patents
+- cautionary tales:
+  - https://patentpandas.org/stories/crowdfunding-backer-patented-my-project
+  - https://patentpandas.org/stories/company-patented-my-idea
+
+# Productivity
+- https://qotoqot.com/blog/improving-focus/
+
 
 # Pricing
 - How to price your product/service: https://news.ycombinator.com/item?id=13840282
@@ -265,30 +258,6 @@
 - no free plan: https://nofreeplan.com/
 
 
-# Exiting
-- How to sell a company: https://medium.com/@awilkinson/the-berkshire-hathaway-of-the-internet-391a8ee83db#.uvou4mrzo
-- https://news.crunchbase.com/news/your-vc-needs-a-billion-dollar-exit-you-do-not/
-- https://medium.com/@todsacerdoti/part-2-100m-to-1b-non-obvious-lessons-learned-selling-to-yahoo-aeab9ad6cc8a
-
-# Meetings
-- Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
-
-# Customer Acquisition
-- strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
-
-# Networking
-- http://firstround.com/review/how-to-become-insanely-well-connected/
-
-# Productivity
-- https://qotoqot.com/blog/improving-focus/
-
-# Patents
-- cautionary tales:
-  - https://patentpandas.org/stories/crowdfunding-backer-patented-my-project
-  - https://patentpandas.org/stories/company-patented-my-idea
-
-# Naming
-- https://failory.com/naming-a-startup
 
 # Remote Work
 - https://news.ycombinator.com/item?id=15889939
@@ -298,27 +267,51 @@
 - http://blairreeves.me/2018/11/09/dont-work-remotely/?resubmit=hn
 - http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 - https://bookface.ycombinator.com/posts/44928
+- payments: Deel
 
 
-# Finding Cofounder
-- http://foundersatwork.posthaven.com/grow-the-puzzle-around-you
-- Jessica: When it came to investing, I had something that my cofounders didn’t have: I was the Social Radar. I couldn’t judge our applicants’ technical ability, or even most of the ideas. My cofounders were experts at those things.  I looked at qualities of the applicants my cofounders couldn't see.  Did they seem earnest? Were they determined? Were they flexible-minded?  And most importantly, what was the relationship between the cofounders like? While my partners discussed the idea with the applicants, I usually sat observing silently. Afterward, they would turn to me and ask, "Should we fund them?"
-From the beginning I was careful about only funding earnest people. Back then, I never envisioned the people we funded growing into a community of thousands of YC alumni, but I always tried to create an asshole-free culture. If I could tell someone was a conceited asshole, we didn’t fund them. I’m sure we’ve since funded some conceited assholes, but early on I was pretty rigid about this. And I think it’s the basis of the culture of our alumni community.
-- https://news.ycombinator.com/item?id=20266463
-- https://founderslist.com/cofounders
+# Resources/
+- YC Company Directory: https://bookface.ycombinator.com/directory
+- https://stackshare.io/
+- http://startuptools.pbworks.com/w/page/17974963/FrontPage
+- https://www.startupschool.org/library
+- https://github.com/leonar15/startup-checklist
+- http://startupstash.com/
+- https://founderkit.com/
+- https://blog.teamgate.com/400-free-resources-to-grow-your-business/
+- https://failory.com/naming-a-startup
+- https://reads.breue.com/125-places-to-post-your-startup-product-6df5b7ad3932
+- http://startuptools.pbworks.com/w/page/17974963/FrontPage
+- https://www.sideprojectchecklist.com/marketing-checklist/
+- https://abdoriani.com/cost-minimization-strategies-bootstrapped-founders-can-instantly-apply-to-save-over-10000/
+- https://www.smashingmagazine.com/2009/06/45-incredibly-useful-web-design-checklists-and-questionnaires/
+- Founder to CEO: How to build a great company from the ground up: https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/mobilebasic#heading=h.pdmqf3646hgt
+- indie software makers: https://medium.com/@julienvallini/10-services-to-ship-at-light-speed-%EF%B8%8F-154b576eb4f
+- startup deals: https://github.com/dakshshah96/awesome-startup-credits
+- https://about.gitlab.com/handbook/business-ops/tech-stack/
+- open source alternatives: https://www.btw.so/open-source-alternatives
+
+# Sales
+- YC Sales Workshop with Steli: https://close.wistia.com/medias/cwdi8tt1d7
+- https://bookface.ycombinator.com/posts/53528
+- https://a16z.com/2018/09/02/sales-startups-technical-founders/
+- selling to SMBs: https://bookface.ycombinator.com/posts/55284#comment-140031
 
 
-# Financial Models
-- https://www.fivecastfinancial.com/guides/financial-modeling-for-startups-an-introduction/
-- https://www.stephnass.com/blog/startup-financial-model
+# Team Building / Management
+- How to build an effective team - https://hbr.org/2017/01/great-teams-are-about-personalities-not-just-skills
+- https://ronjeffries.com/articles/018-01ff/abandon-1/
+- https://daedtech.com/how-to-keep-your-best-programmers
+- http://typicalprogrammer.com/why-dont-software-development-methodologies-work
+- build good culture: https://bookface.ycombinator.com/posts/9519
+- https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b
+- https://getweeklyupdate.com/manager-guide
+- 1-on-1 questions: https://github.com/VGraupera/1on1-questions
+- https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory
+- culture: Entrepreneur Cindy Gallop on how to build a successful business: “There is a formula for success in business, and it goes like this: You set out to find the very best talent in the marketplace, and then give them a compelling and inspirational vision of what you want them to achieve for you and the company. Then you empower them to achieve those goals using their own skills and talents in any way they choose. If, at the same time, you demonstrate how enormously you value them, not just through compensation, but also verbally, every single day, and if you enable that talent to share in the profit that they help create for you, you’ll be successful. It’s so simple, and virtually nobody does it, because it requires a high-trust working environment, and most business environments are low-trust. In order to own the future of your business, you have to design it around trust.” Source: The Most Provocative Woman in the World: Cindy Gallop
 
 
-# Legal
-- contractor freelance contract: https://plainfreelancecontract.com/
-
-# Communities
-- for bootstrapped software developers: https://discuss.bootstrapped.fm/
-
-# Decision-Making
-- https://candost.blog/how-to-stop-endless-discussions/
-
+# Wikis
+- Confluence
+- Notion.so
+- [FocalBoard](https://www.focalboard.com/)

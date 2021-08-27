@@ -1,6 +1,10 @@
 
+# 🛠 [Resources](/README.md) / Technical / Backend
+{:.no_toc}
 
-# Backend
+* TOC
+{:toc}
+
 
 ## Starter Databases (flexible)
 - ArangoDB

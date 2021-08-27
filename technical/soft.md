@@ -71,3 +71,5 @@
 - getting it to work in China: https://chanind.github.io/china/2019/01/19/launching-an-app-or-website-in-china.html
 - https://sprune.com/blog/state-of-self-serve-website-building-in-2020/
 
+## Instrumentation
+- How to instrument a software service: https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/

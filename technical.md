@@ -12,7 +12,8 @@
 - tech stacks for indie developer: https://panelbear.com/blog/tech-stack/
 - https://github.com/255kb/stack-on-a-budget
 - https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
-
+- [https://news.ycombinator.com/item?id=28299053](https://news.ycombinator.com/item?id=28299053)
+- https://runninginproduction.com/
 
 ## How-to
 - build reliable tech instructure/servers as solo founder: ttps://news.ycombinator.com/item?id=21461617
@@ -50,10 +51,12 @@
 - Mongodb
 - Postgres
 - Couchbase
-- Couchdb
+- Couchdb (+replication)
 - OrientDB
 - Rethinkdb
 - Riak
+- Scylladb
+- SQLite
 
 ## Issue Tracking
 - [Linear](https://linear.app)
@@ -62,7 +65,88 @@
 ## React components
 __Spreadsheet__: https://bookface.ycombinator.com/posts/55518
 
+## CSS
+- Tailwind UI / CSS
+- Bulma
+
+## Https Proxy
+- Caddy
+
+## Deployment
+- Ansible, Terraform, Docker, Kubernetes, Civo, K3s
+
+## Frontend
+- https://htmx.org/
+
+## JS Charting
+- https://echarts.apache.org/en/index.html
+- ChartJS 
+
+## Web Monitoring/Analytics
+- Google Analytics
+- Mixpanel
+- Sentry
+
+## Backend monitoring
+- Grafana
+- Telegraph + Influxdb
+
+## Hosting
+- Vercel
+- Digital Ocean
+- Netlify
+- AWS
+- Azure
+- Heroku
+- Linode
+- Vultr
+- Hetzner 
+- https://dokku.com (self-hosted Heroku)
+- Primcloud
+- K3s
+
+## CI/CD
+- Github actions
+- Cloudflare pages
+- Gitlab operations
+
+## Web App Platforms (db, auth, storage, hosting)
+- Firebase
+- Meteor
+
+## Web CSS Components
+- Ant Design
+
+## Automation
+- Zapier
+
+## JS UI Lib
+- React
+- Vue
+- Svelte / SvelteKit / Sapper
+
+## JS Server Frameworks
+- Nextjs
+- Gatsby
+
+## Javascript/Typescript Libs
+- state management: Recoil
+- immutability: ImmerJS
+- local data persistence: PouchDB 
+- microservices: Molecular.js
+- ORM: Prisma
+- misc: Stimulus
+
+## Web App Packaging as Native
+- Flutter
+- React Native
+
+## Internal Tools
+- Budibase
+
 ## Alerting
+- Uptime Robot
+- Errbit (error catcher)
 - https://speakerdeck.com/caitiem20/tackling-alert-fatigue
 - https://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/
 
@@ -74,29 +158,41 @@ How to instrument a software service: https://honeycomb.io/blog/2017/01/instrume
 - Get domain from big company: https://bookface.ycombinator.com/posts/8999
 - Buy from big company: https://bookface.ycombinator.com/posts/11602?source=digest
 
+## CMS
+- Sanity
+- GraphCMS
+- getkirby.com
 
-## Security
+## Security / Authentication
 - How to secure your SAAS startup
   - https://github.com/forter/security-101-for-saas-startups  
   - https://paragonie.com/blog/2017/04/checklist-driven-security-considered-harmful
   - https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56
 - checklist: https://securitycheckli.st/
 - securing postgres: https://goteleport.com/blog/securing-postgres-postgresql/
-
-## Rate Limiting
-- https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
-- https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/#.WjlcxXHbXuU.hackernews
-
-## Authentication
-- Best practices:
+- Keycloak
+- Auth0
+- Authentication Best practices:
   - https://stackoverflow.com/questions/3391242/should-i-hash-the-password-before-sending-it-to-the-server-side
   - https://code.tutsplus.com/tutorials/securely-handling-users-login-credentials--cms-20369
   - https://www.owasp.org/index.php/Authentication_Cheat_Sheet
   - https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
   - https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html
 
+## Email services
+- Mailgun
+- SES
+- Sendgrid
+
+## Rate Limiting
+- https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
+- https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/#.WjlcxXHbXuU.hackernews
+
 ## Scraping
 - https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/
+
+## Caching
+- Redis
 
 ## SEO
 - how to do SEO: https://github.com/joshbuchea/HEAD#meta-not-recommended
@@ -112,3 +208,7 @@ How to instrument a software service: https://honeycomb.io/blog/2017/01/instrume
 
 ## Web Building
 - html boilerplate: https://www.matuzo.at/blog/html-boilerplate/
+
+## Miscellaneous
+- Airtable (curation)
+- noip.com (DNS for internet-connected devices)

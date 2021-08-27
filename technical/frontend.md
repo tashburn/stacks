@@ -10,7 +10,7 @@
 - __css__: Tailwind UI/CSS, Bulma
 - __css components__: Ant Design
 - __js charting__: 
-  [ECharts](https://echarts.apache.org/en/index.html)
+  [ECharts](https://echarts.apache.org/en/index.html),
   ChartJS 
 - __js ui lib__: React, Vue, Svelte/SvelteKit/Sapper
 - __monitoring/analytics__: Google Analytics, Mixpanel, Sentry

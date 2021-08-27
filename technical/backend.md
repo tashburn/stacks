@@ -6,7 +6,29 @@
 {:toc}
 
 
-## Starter Databases (flexible)
+## Alerting
+- Uptime Robot
+- Errbit (error catcher)
+- https://speakerdeck.com/caitiem20/tackling-alert-fatigue
+- https://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/
+
+## Automation
+- Zapier
+
+## Caching
+- Redis
+- 
+## Continuous Integration / Continuous Deployment
+- Github actions
+- Cloudflare pages
+- Gitlab operations
+
+## CMS
+- Sanity
+- GraphCMS
+- getkirby.com
+
+## Databases
 - ArangoDB
 - Mongodb
 - Postgres
@@ -18,20 +40,18 @@
 - Scylladb
 - SQLite
 
-## Issue Tracking
-- [Linear](https://linear.app)
-- Closed
-
-## Https Proxy
-- Caddy
-
 ## Deployment
-- Ansible, Terraform, Docker, Kubernetes, Civo, K3s
+- Ansible
+- Terraform
+- Docker
+- Kubernetes
+- Civo
+- K3s
 
-
-## Backend monitoring
-- Grafana
-- Telegraph + Influxdb
+## Email services
+- Mailgun
+- SES
+- Sendgrid
 
 ## Hosting
 - Vercel
@@ -47,23 +67,18 @@
 - Primcloud
 - K3s
 
-## CI/CD
-- Github actions
-- Cloudflare pages
-- Gitlab operations
+## Https Proxy
+- Caddy
 
-## Web App Platforms (db, auth, storage, hosting)
-- Firebase
-- Meteor
+## Internal Tools
+- Budibase
 
-## Automation
-- Zapier
+## Issue Tracking
+- [Linear](https://linear.app)
+- Closed
 
-## JS Server Frameworks
-- Nextjs
-- Gatsby
-
-## Javascript/Typescript Libs
+## Javascript / Typescript
+- server frameworks: nextjs, gatsby
 - state management: Recoil
 - immutability: ImmerJS
 - local data persistence: PouchDB 
@@ -71,26 +86,9 @@
 - ORM: Prisma
 - misc: Stimulus
 
-## Web App Packaging as Native
-- Flutter
-- React Native
-
-## Internal Tools
-- Budibase
-
-## Alerting
-- Uptime Robot
-- Errbit (error catcher)
-- https://speakerdeck.com/caitiem20/tackling-alert-fatigue
-- https://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/
-
-## Instrumentation
-How to instrument a software service: https://honeycomb.io/blog/2017/01/instrumentation-the-first-four-things-you-measure/
-
-## CMS
-- Sanity
-- GraphCMS
-- getkirby.com
+## Monitoring
+- Grafana
+- Telegraph + Influxdb
 
 ## Security / Authentication
 - How to secure your SAAS startup
@@ -108,17 +106,15 @@ How to instrument a software service: https://honeycomb.io/blog/2017/01/instrume
   - https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
   - https://cloudplatform.googleblog.com/2018/01/12-best-practices-for-user-account.html
 
-## Email services
-- Mailgun
-- SES
-- Sendgrid
+## Web App Platforms (db, auth, storage, hosting)
+- Firebase
+- Meteor
 
-## Caching
-- Redis
-
-## Web Building
-- html boilerplate: https://www.matuzo.at/blog/html-boilerplate/
+## Web App Packaging as Native
+- Flutter
+- React Native
 
 ## Miscellaneous
+- html boilerplate: https://www.matuzo.at/blog/html-boilerplate/
 - Airtable (curation)
 - noip.com (DNS for internet-connected devices)

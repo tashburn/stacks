@@ -1,5 +1,5 @@
 
-# 🛠 [Resources](/README.md) / Technical / Soft
+# 🛠 [Resources](/stack/README.md) / Technical / Soft
 {:.no_toc}
 
 * TOC

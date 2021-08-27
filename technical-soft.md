@@ -28,6 +28,7 @@
 - list of skills a senior engineer needs beyond coding: https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 - https://jmmv.dev/2021/04/always-be-quitting.html
 - designing large-scale systems: https://github.com/donnemartin/system-design-primer
+- Building in Public: https://bookface.ycombinator.com/posts/49718
 
 ## Deployment
 - checklist: https://github.com/mr-mig/going-to-production

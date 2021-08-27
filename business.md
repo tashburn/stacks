@@ -121,6 +121,9 @@
 - Equity: cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
 - negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
+# CRM
+- Streak (YC)
+
 # Growth
 - Conversion Flow
   - Savvy

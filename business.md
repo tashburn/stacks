@@ -55,6 +55,7 @@
 - https://mercury.com/
 - Brex
 
+
 # Blogging
 - Substack
 - Open
@@ -65,7 +66,7 @@
 - Accountants
   - (Brittiney recommended some)
   - https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
-
+- https://bookface.ycombinator.com/posts/55834
 
 
 # Business Models

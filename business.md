@@ -179,8 +179,11 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://andrewchen.co/investor-metrics-deck/
 - https://salon.thefamily.co/dont-freak-out-the-fundraising-bible-is-here-156a059fe824
 - for open source:
-  - https://motherboard.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable
+  - https://motherboard.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainablet
   - https://plausible.io/blog/open-source-funding
+  - patreon
+  - open collective
+  - github sponsors
 - alternative: https://bookface.ycombinator.com/posts/47004
 - Series A diligence checklist: https://blog.ycombinator.com/ycs-series-a-diligence-checklist/
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/

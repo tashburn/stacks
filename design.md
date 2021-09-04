@@ -5,6 +5,9 @@
 {:toc}
 
 
+## Copywriting
+- https://www.indiehackers.com/post/17-tips-for-great-copywriting-5d4786ddf7
+
 ## Documentation
 - https://www.divio.com/en/blog/documentation/
 
@@ -18,6 +21,8 @@
 - https://www.cortes.design/post/best-saas-landing-page-examples-inspiration
 - copy: https://stripe.com/atlas/guides/landing-page-copy
 - https://blog.roastmylandingpage.com/landing-page-roasts/
+- free templates: https://www.indiehackers.com/forum/i-m-building-a-gallery-of-free-html-css-landing-pages-for-startups-eddd145c1f
+- mistakes: https://www.indiehackers.com/post/looking-back-to-2020-these-are-5-landing-page-mistakes-indie-hackers-keep-doing-over-and-over-10e6d30f7a
 
 ## Logos
 - make a logo yourself: https://blog.themeskingdom.com/how-to-make-your-own-logo-from-scratch/
@@ -53,6 +58,9 @@
 - UX tasks: https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
 - https://twitter.com/vponamariov/status/1421014957110579203
 - onboarding: https://hackernoon.com/a-great-user-onboarding-process-flow-creates-happy-users-8e4e730aa627
+- https://www.indiehackers.com/post/my-step-by-step-guide-to-landing-pages-that-convert-9daefb2064
+- https://growth.design/psychology/
+
 
 ## Website No-Code Builders
 - Webflow

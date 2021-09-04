@@ -96,6 +96,8 @@
   - Product Vision
   - Run Book
 - 10 types of innovation: https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
+- find a way to have a paid community: https://www.indiehackers.com/post/community-the-new-business-model-for-indie-hackers-01908d3dc3
+
 
 # Cap Table
 - Carta?
@@ -124,22 +126,6 @@
 
 # CRM
 - Streak (YC)
-
-# Growth
-- Conversion Flow
-  - Savvy
-- Customer Acquisition
-  - strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
-
-
-# Decision-Making
-- https://candost.blog/how-to-stop-endless-discussions/
-
-# Document Signing
-- Smallpdf
-- Docusign
-- Hellosign
-- Rippling (part of service)
 
 
 # Exiting
@@ -189,6 +175,43 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/
 
 
+# Growth / Marketing
+- How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
+- How to market your product/service/company: https://news.ycombinator.com/item?id=13853199
+- How to do a Kickstarter: https://www.shopmoment.com/momentist/the-complete-guide-to-succeeding-on-kickstarter-in-2017-everything-we-learned-in-raising-1-5m
+- checklist: https://www.sideprojectchecklist.com/
+- podcasts: https://ahrefs.com/blog/podcast-advertising/
+- online advertising, selling on amazon and qvc: https://starterstory.com/stories/how-two-unlikely-partners-invented-the-upcart-and-went-viral-on-qvc
+- emails: https://bookface.ycombinator.com/posts/38216
+- marketing for engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
+- https://blog.saleswhale.com/3-lessons-from-saleswhales-successful-abm-campaign-that-led-to-210000-revenue
+- get first 1000 users: https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got
+- https://i.imgur.com/k1758Dh.png?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
+- Conversion Flow
+  - Savvy
+- Customer Acquisition
+  - strategies: https://blog.kissmetrics.com/resources-for-customer-acquisition/
+- growth hacks: https://www.indiehackers.com/post/2-167-new-subscribers-in-48-hours-one-tactic-you-should-try-283601e91d
+- Launch
+  - https://www.indiehackers.com/post/relaunch-like-a-pro-100-places-to-launch-relaunch-and-list-your-product-7c67875635
+- https://www.indiehackers.com/post/11-marketing-channels-that-consistently-work-for-founders-8992a89a03
+- Finding customers: https://www.indiehackers.com/post/post-a-link-to-your-product-and-well-suggest-where-to-acquire-new-users-05bb35a200
+- build a community
+- https://www.indiehackers.com/@eelcoj/running-a-business-is-80-marketing-and-only-20-product-b1f8b0d5e5
+
+
+# Decision-Making
+- https://candost.blog/how-to-stop-endless-discussions/
+
+
+# Document Signing
+- Smallpdf
+- Docusign
+- Hellosign
+- Rippling (part of service)
+
+
+
 # Hiring
 - How to interview someone: “Lesson number one, when people ask me what [interviewing] tips would I give, is aim for the heart, not the head. Once you get the heart, you can go to the head. Once you get the heart and the head, then you’ll have a pathway to the soul.”
 - Interviewing:
@@ -224,18 +247,6 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - https://patentpandas.org/stories/crowdfunding-backer-patented-my-project
   - https://patentpandas.org/stories/company-patented-my-idea
 
-# Marketing
-- How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
-- How to market your product/service/company: https://news.ycombinator.com/item?id=13853199
-- How to do a Kickstarter: https://www.shopmoment.com/momentist/the-complete-guide-to-succeeding-on-kickstarter-in-2017-everything-we-learned-in-raising-1-5m
-- checklist: https://www.sideprojectchecklist.com/
-- podcasts: https://ahrefs.com/blog/podcast-advertising/
-- online advertising, selling on amazon and qvc: https://starterstory.com/stories/how-two-unlikely-partners-invented-the-upcart-and-went-viral-on-qvc
-- emails: https://bookface.ycombinator.com/posts/38216
-- marketing for engineers: https://github.com/LisaDziuba/Marketing-for-Engineers
-- https://blog.saleswhale.com/3-lessons-from-saleswhales-successful-abm-campaign-that-led-to-210000-revenue
-- get first 1000 users: https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got
-- https://i.imgur.com/k1758Dh.png?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
 
 
 

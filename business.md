@@ -177,6 +177,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - alternative: https://bookface.ycombinator.com/posts/47004
 - Series A diligence checklist: https://blog.ycombinator.com/ycs-series-a-diligence-checklist/
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/
+- https://bookface.ycombinator.com/posts/55914
 
 
 # Growth / Marketing

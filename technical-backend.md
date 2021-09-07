@@ -90,8 +90,16 @@
 - https://speakerdeck.com/caitiem20/tackling-alert-fatigue
 - https://www.kitchensoap.com/2013/07/22/owning-attention-considerations-for-alert-design/
 - Sentry: error tracking, performance monitoring
-- Grafana
+- Prometheus (collection/storage)
+- Grafana (charts)
 - Telegraph + Influxdb
+- Product Analytics: (https://satchel.com/web-analytics/)
+  - June (YC)
+  - Fullstory (customer interaction)
+  - Mixpanel (+ One Signal?)
+  - Amplitude
+  - Heap
+  - OpenReplay
 
 ## Security / Authentication
 - How to secure your SAAS startup

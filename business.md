@@ -99,6 +99,10 @@
 - find a way to have a paid community: https://www.indiehackers.com/post/community-the-new-business-model-for-indie-hackers-01908d3dc3
 
 
+# Calendars / Scheduling
+- Calendly
+
+
 # Cap Table
 - Carta?
 - Pulley

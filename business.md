@@ -46,7 +46,6 @@
 - personal productivity: https://qotoqot.com/blog/improving-focus/
 
 
-
 # Analytics
 - Posthog
 
@@ -111,6 +110,7 @@
 # Chat
 - Discord
 - Open
+- https://revolt.chat/
 
 
 # Community Software
@@ -252,6 +252,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - https://patentpandas.org/stories/company-patented-my-idea
 
 
+# Metrics
+- https://www.analyticspack.com/ (YC)
 
 
 # Naming

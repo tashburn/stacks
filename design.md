@@ -17,6 +17,8 @@
 ## Inspiration
 - [Carta](https://carta.com/)
 - https://untools.co/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter
+- https://randsinrepose.com/archives/ok-so-you-cant-decide/
+
 
 ## Landing Pages
 - https://www.cortes.design/post/best-saas-landing-page-examples-inspiration

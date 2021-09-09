@@ -16,6 +16,7 @@
 
 ## Inspiration
 - [Carta](https://carta.com/)
+- https://untools.co/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter
 
 ## Landing Pages
 - https://www.cortes.design/post/best-saas-landing-page-examples-inspiration

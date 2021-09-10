@@ -129,14 +129,27 @@
 - Equity: cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
 - negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
+
 # CRM
 - Streak (YC)
+
+
+# Decision-Making
+- https://candost.blog/how-to-stop-endless-discussions/
+
+
+# Document Signing
+- Smallpdf
+- Docusign
+- Hellosign
+- Rippling (part of service)
 
 
 # Exiting
 - How to sell a company: https://medium.com/@awilkinson/the-berkshire-hathaway-of-the-internet-391a8ee83db#.uvou4mrzo
 - https://news.crunchbase.com/news/your-vc-needs-a-billion-dollar-exit-you-do-not/
 - https://medium.com/@todsacerdoti/part-2-100m-to-1b-non-obvious-lessons-learned-selling-to-yahoo-aeab9ad6cc8a
+
 
 # Finding a Cofounder
 - http://foundersatwork.posthaven.com/grow-the-puzzle-around-you
@@ -206,16 +219,6 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://www.indiehackers.com/@eelcoj/running-a-business-is-80-marketing-and-only-20-product-b1f8b0d5e5
 
 
-# Decision-Making
-- https://candost.blog/how-to-stop-endless-discussions/
-
-
-# Document Signing
-- Smallpdf
-- Docusign
-- Hellosign
-- Rippling (part of service)
-
 
 
 # Hiring
@@ -269,6 +272,9 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - ffice design for technical teams: https://news.ycombinator.com/item?id=16864925&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
 - https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
 
+
+# Personal Effectiveness
+- Thinking tools: https://untools.co/eisenhower-matrix
 
 
 # Pricing
@@ -331,6 +337,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - culture: Entrepreneur Cindy Gallop on how to build a successful business: “There is a formula for success in business, and it goes like this: You set out to find the very best talent in the marketplace, and then give them a compelling and inspirational vision of what you want them to achieve for you and the company. Then you empower them to achieve those goals using their own skills and talents in any way they choose. If, at the same time, you demonstrate how enormously you value them, not just through compensation, but also verbally, every single day, and if you enable that talent to share in the profit that they help create for you, you’ll be successful. It’s so simple, and virtually nobody does it, because it requires a high-trust working environment, and most business environments are low-trust. In order to own the future of your business, you have to design it around trust.” Source: The Most Provocative Woman in the World: Cindy Gallop
 - Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
 - Negative emotions are unmet needs: https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172
+
 
 # Wikis
 - Confluence

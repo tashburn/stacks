@@ -116,6 +116,7 @@
 
 
 ## Monitoring / Instrumentation / Alerting
+- Checklist: https://littlewarden.com/features
 - Uptime Robot
 - Errbit (error catcher)
 - https://speakerdeck.com/caitiem20/tackling-alert-fatigue
@@ -132,7 +133,6 @@
   - Amplitude
   - Heap
   - OpenReplay
-
 
 ## Security / Authentication
 - How to secure your SAAS startup

@@ -157,7 +157,7 @@
 From the beginning I was careful about only funding earnest people. Back then, I never envisioned the people we funded growing into a community of thousands of YC alumni, but I always tried to create an asshole-free culture. If I could tell someone was a conceited asshole, we didn’t fund them. I’m sure we’ve since funded some conceited assholes, but early on I was pretty rigid about this. And I think it’s the basis of the culture of our alumni community.
 - https://news.ycombinator.com/item?id=20266463
 - https://founderslist.com/cofounders
-
+- https://bookface.ycombinator.com/posts/56030
 
 
 # Financial Models

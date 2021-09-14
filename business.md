@@ -230,6 +230,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky
   - technical interviews: https://alexgolec.dev/google-interview-questions-deconstructed-the-knights-dialer/
   - https://benhoyt.com/writings/count-words/
+  - questions: https://www.cbinsights.com/research/team-blog/best-job-interview-questions-business-tech/
 - Question to ask interviewer:
   - https://medium.com/@cvitullo/questions-to-ask-your-interviewer-82a26e67ce6c
 - Crockford: I’m looking for quality of presentation. I want to see what he thinks is something he’s proud of. I want to see evidence that in fact he is the author of the thing that he’s defending. I find that is much more effective than asking them to solve puzzles or trivia questions. I see all that kind of stuff as useless. But how effectively they can communicate, that’s a skill that I’m hiring for.

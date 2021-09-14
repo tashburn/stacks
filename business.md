@@ -337,6 +337,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - culture: Entrepreneur Cindy Gallop on how to build a successful business: “There is a formula for success in business, and it goes like this: You set out to find the very best talent in the marketplace, and then give them a compelling and inspirational vision of what you want them to achieve for you and the company. Then you empower them to achieve those goals using their own skills and talents in any way they choose. If, at the same time, you demonstrate how enormously you value them, not just through compensation, but also verbally, every single day, and if you enable that talent to share in the profit that they help create for you, you’ll be successful. It’s so simple, and virtually nobody does it, because it requires a high-trust working environment, and most business environments are low-trust. In order to own the future of your business, you have to design it around trust.” Source: The Most Provocative Woman in the World: Cindy Gallop
 - Writing Effective Meeting Notes: https://meetnotes.co/writing-effective-meeting-notes/
 - Negative emotions are unmet needs: https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172
+- effective teams and organizations, and being effective individual: https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
 
 
 # Wikis

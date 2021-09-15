@@ -5,6 +5,10 @@
 {:toc}
 
 
+## Agencies
+- https://bookface.ycombinator.com/posts/56054
+
+
 ## Copywriting
 - https://www.indiehackers.com/post/17-tips-for-great-copywriting-5d4786ddf7
 

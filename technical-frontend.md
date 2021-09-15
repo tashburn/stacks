@@ -23,14 +23,14 @@ __monitoring/analytics__: Google Analytics, Mixpanel, Sentry
 __react / components / spreadsheet__: [bookface/55518](https://bookface.ycombinator.com/posts/55518)
 
 __ui components__:
-	https://ant.design/components/overview/
-	https://react.semantic-ui.com/elements/button/
-	https://material-ui.com/
-	https://chakra-ui.com/theme
-	https://blueprintjs.com/docs/#core/components/skeleton
-	https://react-bootstrap.github.io/components/alerts/
-	https://rebassjs.org/forms/checkbox
-	https://evergreen.segment.com/components/
-	https://developer.microsoft.com/en-us/fluentui#/
+https://ant.design/components/overview/
+https://react.semantic-ui.com/elements/button/
+https://material-ui.com/
+https://chakra-ui.com/theme
+https://blueprintjs.com/docs/#core/components/skeleton
+https://react-bootstrap.github.io/components/alerts/
+https://rebassjs.org/forms/checkbox
+https://evergreen.segment.com/components/
+https://developer.microsoft.com/en-us/fluentui#/
 
 

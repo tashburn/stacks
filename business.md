@@ -197,6 +197,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Series A diligence checklist: https://blog.ycombinator.com/ycs-series-a-diligence-checklist/
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/
 - https://bookface.ycombinator.com/posts/55914
+- pitching using Pixar's script: https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars
 
 
 # Growth / Marketing

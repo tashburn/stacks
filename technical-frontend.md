@@ -6,23 +6,66 @@
 {:toc}
 
 
-__ajax__: [htmx](https://htmx.org/)
 
-__css__: Tailwind UI/CSS, Bulma
+# API
+- REST API
+	- fetch
+	- axios
+- Duplex 
+	- socket.io
+	- https://blog.bitsrc.io/8-node-js-web-socket-libraries-for-2018-818e7e5b67cf
 
-__css components__: Ant Design
+# CSS
+- Tailwind UI/CSS
+- Bulma
+- Emotion
+- Styled-Components
 
-__js charting__: 
-  [ECharts](https://echarts.apache.org/en/index.html),
-  ChartJS 
+# Charting Libs 
+- [ECharts](https://echarts.apache.org/en/index.html),
+- ChartJS
+- https://observablehq.com/@observablehq/plot
+- https://nivo.rocks/components
+- http://recharts.org/en-US/examples
+- https://antv.vision/en
+- https://plotly.com/javascript/ (doesn't work well with next.js)
+- https://airbnb.io/visx/gallery
+- http://uber.github.io/react-vis/examples/showcases/plots
+- https://formidable.com/open-source/victory/gallery/
+- https://apexcharts.com/javascript-chart-demos/
+- https://chartscss.org/
+- https://3b1b.github.io/manim/index.html
 
-__js ui lib__: React, Vue, Svelte/SvelteKit/Sapper
+# Icons 
+-	https://react-icons.github.io/react-icons/
+-	https://github.com/oblador/react-native-vector-icons
+-	https://feathericons.com/
+- Favicons:
+	- https://formito.com/tools/favicon
 
-__monitoring/analytics__: Google Analytics, Mixpanel, Sentry
 
-__react / components / spreadsheet__: [bookface/55518](https://bookface.ycombinator.com/posts/55518)
+# Miscellaneous Libs
+- timeline: https://timeline.knightlab.com/#examples
+- fast tables: https://bvaughn.github.io/react-virtualized/#/components/List
+- ajax: [htmx](https://htmx.org/)
 
-__ui components__:
+
+# Monitoring / Analytics
+- Google Analytics
+- Mixpanel
+- Sentry
+
+# React
+- components
+	- list: https://github.com/brillout/awesome-react-components#tree
+	- spreadsheet: [bookface/55518](https://bookface.ycombinator.com/posts/55518)
+- state management
+	- Redux
+	- Mobx
+
+
+
+# UI Component Libs
 [Ant](https://ant.design/components/overview/),
 [Semantic UI](https://react.semantic-ui.com/elements/button/),
 [Material UI](https://material-ui.com/),
@@ -34,3 +77,8 @@ __ui components__:
 [Fluent](https://developer.microsoft.com/en-us/fluentui#/)
 
 
+
+# UI Frameworks	
+- React
+- Vue
+- Svelte/SvelteKit/Sapper

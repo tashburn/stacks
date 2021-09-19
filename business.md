@@ -228,7 +228,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Finding customers: https://www.indiehackers.com/post/post-a-link-to-your-product-and-well-suggest-where-to-acquire-new-users-05bb35a200
 - build a community
 - https://www.indiehackers.com/@eelcoj/running-a-business-is-80-marketing-and-only-20-product-b1f8b0d5e5
-
+- places to post startup: https://www.namy.ai/blog/places-to-post-startup
 
 
 

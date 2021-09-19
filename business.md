@@ -275,6 +275,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 
 # Naming
 - https://failory.com/naming-a-startup
+- domain name generator: https://www.namy.ai/
 
 
 # Networking

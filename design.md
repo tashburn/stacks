@@ -16,16 +16,17 @@
 - https://www.divio.com/en/blog/documentation/
 
 ## Fonts
-- Proxima Nova
 - Atkinson Hyperlegible
 - NBI Pro Bold, https://www.optimizely.com/
 - "SF Compact Display", https://rohitmittal.substack.com/p/a-brief-guide-to-starting-and-building
-- Tiempos, https://www.fullstory.com/
+- [Tiempos](https://www.fullstory.com/)
 - NeueHaas, input mono, sans-serif, https://www.technologyreview.com/2020/10/21/1009443/short-term-vs-long-term-thinking/
 - BWHaasGrotesk-75Bold-Web, Helvetica, Arial, sans-serif
 - Poppins
-- Inter, https://rsms.me/inter/
-	
+- [Inter](https://rsms.me/inter/)
+- Proxima Nova
+- Open Sans
+
 
 ## HTML Emails
 - https://mailstudio.app/

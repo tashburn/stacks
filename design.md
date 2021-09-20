@@ -26,6 +26,7 @@
 - [Inter](https://rsms.me/inter/)
 - Proxima Nova
 - Open Sans
+- Source Sans Pro (looks good small on monitor)
 
 
 ## HTML Emails

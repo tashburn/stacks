@@ -37,9 +37,9 @@
 - https://3b1b.github.io/manim/index.html
 
 # Icons 
--	https://react-icons.github.io/react-icons/
--	https://github.com/oblador/react-native-vector-icons
--	https://feathericons.com/
+- https://react-icons.github.io/react-icons/
+- https://github.com/oblador/react-native-vector-icons
+- https://feathericons.com/
 - Favicons:
 	- https://formito.com/tools/favicon
 
@@ -63,6 +63,9 @@
 	- Redux
 	- Mobx
 
+
+# Text Editors Components
+- https://github.com/ueberdosis/tiptap
 
 
 # UI Component Libs

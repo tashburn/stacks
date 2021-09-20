@@ -64,7 +64,7 @@
 	- Mobx
 
 
-# Text Editors Components
+# Text Editor Components
 - https://github.com/ueberdosis/tiptap
 
 

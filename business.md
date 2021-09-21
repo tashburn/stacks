@@ -152,10 +152,15 @@
 - Rippling (part of service)
 
 
-# Emplpyee Benefits
+# Employee Benefits
 - Healthcare
-  - https://bookface.ycombinator.com/posts/56075 
-
+  - Savvy (YC)
+  - https://bookface.ycombinator.com/posts/56075
+  - Use an Employee Choice Plan like ICHRA 
+- PEO (Professional Employer Organization)
+  - Rippling PEO
+  - JustWorks 
+  
 
 # Exiting
 - How to sell a company: https://medium.com/@awilkinson/the-berkshire-hathaway-of-the-internet-391a8ee83db#.uvou4mrzo

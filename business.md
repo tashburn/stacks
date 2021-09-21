@@ -48,6 +48,7 @@
 
 # Analytics
 - Posthog
+- User Interview - user research recruiting platform
 
 
 # Banking
@@ -230,7 +231,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - build a community
 - https://www.indiehackers.com/@eelcoj/running-a-business-is-80-marketing-and-only-20-product-b1f8b0d5e5
 - places to post startup: https://www.namy.ai/blog/places-to-post-startup
-
+- Clearbit - marketing data engine
 
 
 # Hiring
@@ -256,6 +257,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://bookface.ycombinator.com/posts/53744
 - evaluating technical talent: https://bookface.ycombinator.com/posts/54430
 - payments and working terms for freelance coders: https://bookface.ycombinator.com/posts/55094
+- Tools:
+  - [Greenhouse](https://www.greenhouse.io/)
 
 
 # Launching
@@ -353,6 +356,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Negative emotions are unmet needs: https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172
 - effective teams and organizations, and being effective individual: https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
 - [Mistakes Founders Make with Vision, Mission & Values](https://bookface.ycombinator.com/posts/56052)
+- Tools:
+  - Lattice (YC) 
 
 
 # Wikis

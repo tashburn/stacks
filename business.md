@@ -342,6 +342,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - startup deals: https://github.com/dakshshah96/awesome-startup-credits
 - https://about.gitlab.com/handbook/business-ops/tech-stack/
 - open source alternatives: https://www.btw.so/open-source-alternatives
+- https://c87.notion.site/c87/Product-Toolbox-1dd6842c177d4d60b4aae75d8d25ae34
+
 
 # Sales
 - YC Sales Workshop with Steli: https://close.wistia.com/medias/cwdi8tt1d7

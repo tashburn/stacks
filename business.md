@@ -154,6 +154,7 @@
 
 # Employee Benefits
 - https://bookface.ycombinator.com/posts/56137
+- https://bookface.ycombinator.com/posts/56178
 - Healthcare
   - Savvy (YC)
   - https://bookface.ycombinator.com/posts/56075
@@ -161,6 +162,7 @@
 - PEO (Professional Employer Organization)
   - Rippling PEO
   - JustWorks 
+  - Trinet
   
 
 # Exiting
@@ -265,7 +267,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - payments and working terms for freelance coders: https://bookface.ycombinator.com/posts/55094
 - Tools:
   - [Greenhouse](https://www.greenhouse.io/)
-
+- Finding people
+  - "As a freelancer, I frequently check r/forhire and Hacker News monthly freelancer/seeking freelancer threads. I find quality of clients and other freelancers much better there than on Upwork or Freelancer.com."
 
 # Launching
 - How to launch: https://blog.amplifr.com/en/amplifr-on-producthunt/

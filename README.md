@@ -7,3 +7,4 @@
   - [Frontend](/technical-frontend.md)
   - [Backend](/technical-backend.md)
   - [Machine Learning](/machine-learning.md)
+- [Personal](/personal.md)

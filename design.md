@@ -66,6 +66,9 @@
 ## Templates
 - Google design docs: https://www.industrialempathy.com/posts/design-docs-at-google/
 
+## Tools
+- [Canva](https://www.canva.com/) (design tool)
+
 ## Typography
 - https://standards.usa.gov/components/typography/
 - Font/Text guidelines:http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography

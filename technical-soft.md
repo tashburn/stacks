@@ -38,6 +38,9 @@
 - Get domain from big company: https://bookface.ycombinator.com/posts/8999
 - Buy from big company: https://bookface.ycombinator.com/posts/11602?source=digest
 
+## Form Builders
+- form builder: https://tally.so/pricing
+
 ## How-to
 - build reliable tech instructure/servers as solo founder: ttps://news.ycombinator.com/item?id=21461617
 - write backends: https://github.com/fpereiro/backendlore
@@ -45,6 +48,9 @@
 ## Product Usage tracking
 - FullStory
 - https://bookface.ycombinator.com/posts/56062
+
+## Marketing
+- https://userlist.com/ (Email marketing automation for SaaS)
 
 ## Rate Limiting
 - https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c

@@ -77,6 +77,7 @@
 - Porter (self-hosted Heroku
 - Primcloud
 - K3s
+- https://www.kimsufi.com/us/en/ (cheap dedicated)
 
 
 ## Https Proxy

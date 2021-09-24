@@ -136,6 +136,12 @@
   - Heap
   - OpenReplay
 
+
+## Payments
+- Stripe
+- https://primer.io/ (connects multiple payment providers and does failover)
+
+
 ## Security / Authentication
 - How to secure your SAAS startup
   - https://github.com/forter/security-101-for-saas-startups  

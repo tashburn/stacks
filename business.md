@@ -118,6 +118,14 @@
 
 # Community Software
 - https://joinmastodon.org/
+- Circle
+- Discourse for Teams
+- Tribe
+- Invision_ _Community (the most modern old-school forum I know of)
+- Hivebrite
+- https://mattermost.com/ — an open source alternative to Slack.
+- https://www.mightynetworks.com/
+- https://comradery.com/
 
 
 # Compensation
@@ -371,7 +379,10 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - Lattice (YC) 
 
 
-# Wikis
+# Wikis / Knowledge Base
 - Confluence
 - Notion.so
+- Slab
+- Cleary
+- Gitbook
 - [FocalBoard](https://www.focalboard.com/)

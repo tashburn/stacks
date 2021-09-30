@@ -184,3 +184,4 @@
 - html boilerplate: https://www.matuzo.at/blog/html-boilerplate/
 - Airtable (curation)
 - noip.com (DNS for internet-connected devices)
+- offline first, RxDB: https://rxdb.info/offline-first.html

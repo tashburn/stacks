@@ -65,8 +65,8 @@
 
 ## Hosting
 - Vercel
-- Digital Ocean
 - Netlify
+- Digital Ocean
 - AWS
 - Azure
 - Heroku

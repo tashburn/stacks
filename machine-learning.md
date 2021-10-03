@@ -6,3 +6,5 @@ https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
 
 
 - approximate any data with a single param, https://arxiv.org/pdf/1904.12320.pdf
+
+- visualizing decision trees: https://explained.ai/decision-tree-viz/index.html

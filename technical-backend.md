@@ -36,6 +36,7 @@
 - ArangoDB
 - Mongodb
 - Postgres
+- FoundationDB
 - Couchbase
 - Couchdb (+replication)
 - OrientDB

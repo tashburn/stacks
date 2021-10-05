@@ -325,8 +325,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 
 # Project Management Tools
 - https://bookface.ycombinator.com/posts/56373
-- Linear (YC)
-- Asana
+- Linear (YC, Issue Tracker for software dev)
+- Asana (for general non-software projects)
 - Kitemaker.co (YC)
 - https://height.app/
 - Clarity (YC)

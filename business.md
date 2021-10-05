@@ -323,6 +323,15 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - no free plan: https://nofreeplan.com/
 
 
+# Project Management Tools
+- https://bookface.ycombinator.com/posts/56373
+- Linear (YC)
+- Asana
+- Kitemaker.co (YC)
+- https://height.app/
+- Clarity (YC)
+- Jira
+
 
 # Remote Work
 - https://news.ycombinator.com/item?id=15889939

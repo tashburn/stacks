@@ -30,6 +30,9 @@
 - designing large-scale systems: https://github.com/donnemartin/system-design-primer
 - Building in Public: https://bookface.ycombinator.com/posts/49718
 
+## Community Software
+- https://bookface.ycombinator.com/posts/56458
+
 ## Deployment
 - checklist: https://github.com/mr-mig/going-to-production
 

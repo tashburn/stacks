@@ -98,7 +98,7 @@
   - Run Book
 - 10 types of innovation: https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/?ref=briefingday.com&curator=briefingday.com&utm_source=briefingday.com&utm_medium=email
 - find a way to have a paid community: https://www.indiehackers.com/post/community-the-new-business-model-for-indie-hackers-01908d3dc3
-
+- business models: http://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html
 
 # Calendars / Scheduling
 - Calendly

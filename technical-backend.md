@@ -57,6 +57,9 @@
 - Civo
 - K3s
 
+## Documentation
+- https://counterexamples.org/distinctness-injectivity.html
+
 
 ## Email services
 - Mailgun

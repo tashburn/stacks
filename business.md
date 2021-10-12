@@ -391,6 +391,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - effective teams and organizations, and being effective individual: https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
 - [Mistakes Founders Make with Vision, Mission & Values](https://bookface.ycombinator.com/posts/56052)
 - Project Management Process Research: https://newsletter.pragmaticengineer.com/p/project-management-in-tech
+- Designing orgs: https://commoncog.com/blog/org-design-skill/
 - Tools:
   - Lattice (YC) 
 

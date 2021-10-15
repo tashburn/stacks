@@ -138,6 +138,7 @@
   - https://bookface.ycombinator.com/posts/52456
 - Equity: cofounder economics and control: https://khanna.cc/blog/starting-a-business-with-a-cofounder/
 - negotiation: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+- benchmarks: https://jacobian.org/2021/oct/13/tech-salaries-2021/
 
 
 # CRM

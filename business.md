@@ -248,6 +248,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://www.indiehackers.com/@eelcoj/running-a-business-is-80-marketing-and-only-20-product-b1f8b0d5e5
 - places to post startup: https://www.namy.ai/blog/places-to-post-startup
 - Clearbit - marketing data engine
+- avoid ads: https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/
+
 
 
 # Hiring

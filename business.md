@@ -141,8 +141,14 @@
 - benchmarks: https://jacobian.org/2021/oct/13/tech-salaries-2021/
 
 
-# CRM
+# CRM (Customer Relationship Management)
+- https://bookface.ycombinator.com/posts/56758
+- Pipedrive
+- Hubspot
 - Streak (YC)
+- Close (YC)
+- Apollo to handle email
+- Zendesk Sell
 
 
 # Customer Discovery

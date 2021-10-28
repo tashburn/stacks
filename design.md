@@ -27,7 +27,7 @@
 - Proxima Nova
 - Open Sans
 - Source Sans Pro (looks good small on monitor)
-
+- Coding Font Chooser: https://www.codingfont.com/
 
 ## HTML Emails
 - https://mailstudio.app/

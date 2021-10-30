@@ -178,6 +178,8 @@
 ## Web App Platforms (db, auth, storage, hosting)
 - Firebase
 - Meteor
+- Appwrite (open source Firebase alternative)
+- Supabase (open source Firebase alternative)
 
 
 ## Web App Packaging as Native

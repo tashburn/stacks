@@ -68,6 +68,7 @@
   - https://bookface.ycombinator.com/posts/55531 (SBIR specific Accounting and Business Solutions of Eastern Carolina)
 - https://bookface.ycombinator.com/posts/55834
 - Pilot (also does taxes)
+- https://www.getpaperclip.com/ (YC)
 
 
 # Business Models

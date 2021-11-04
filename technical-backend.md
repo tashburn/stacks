@@ -10,6 +10,10 @@
 - https://mangadex.dev/mangadex-v5-infrastructure-overview/
 
 
+## Admin Interfaces
+- https://www.getmotoradmin.com/
+
+
 ## Automation
 - Zapier
 - Segment

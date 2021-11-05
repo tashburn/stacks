@@ -86,7 +86,7 @@
 - onboarding: https://hackernoon.com/a-great-user-onboarding-process-flow-creates-happy-users-8e4e730aa627
 - https://www.indiehackers.com/post/my-step-by-step-guide-to-landing-pages-that-convert-9daefb2064
 - https://growth.design/psychology/
-
+- https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/
 
 ## Website No-Code Builders
 - Webflow

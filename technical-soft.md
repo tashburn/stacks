@@ -37,6 +37,13 @@
 ## Deployment
 - checklist: https://github.com/mr-mig/going-to-production
 
+## Documentation
+- https://github.com/testthedocs/awesome-docs
+- https://github.com/unicodeveloper/awesome-documentation-tools
+- examples of good documentation
+  - https://github.com/scottydocs/awesome-docs
+  - https://github.com/PharkMillups/beautiful-docs
+
 ## Domain Names
 - How to get an expiring domain: https://bookface.ycombinator.com/posts/5842
 - Get domain from big company: https://bookface.ycombinator.com/posts/8999

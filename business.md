@@ -151,6 +151,7 @@
 - Close (YC)
 - Apollo to handle email
 - Zendesk Sell
+- Salesforce
 
 
 # Customer Discovery

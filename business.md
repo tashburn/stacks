@@ -354,6 +354,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 - https://bookface.ycombinator.com/posts/44928
 - payments: Deel
+- whiteboard: https://offbyone.us/posts/why-is-excalidraw-so-good/
 
 
 # Resources/

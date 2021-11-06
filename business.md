@@ -405,6 +405,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - [Mistakes Founders Make with Vision, Mission & Values](https://bookface.ycombinator.com/posts/56052)
 - Project Management Process Research: https://newsletter.pragmaticengineer.com/p/project-management-in-tech
 - Designing orgs: https://commoncog.com/blog/org-design-skill/
+- OKRs vs KPIs: https://userpilot.com/blog/okrs-vs-kpis/
 - Tools:
   - Lattice (YC) 
 

@@ -259,7 +259,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - places to post startup: https://www.namy.ai/blog/places-to-post-startup
 - Clearbit - marketing data engine
 - avoid ads: https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/
-
+- product marketing: https://sharebird.com/ama/square-product-marketing-lead-pos-agustina-sacerdote-on-market-research
 
 
 # Hiring
@@ -412,6 +412,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 
 
 # Wikis / Knowledge Base
+- https://bookface.ycombinator.com/posts/56914
 - Confluence
 - Notion.so
 - Slab

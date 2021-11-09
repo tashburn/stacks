@@ -59,6 +59,9 @@
 - build reliable tech instructure/servers as solo founder: ttps://news.ycombinator.com/item?id=21461617
 - write backends: https://github.com/fpereiro/backendlore
 
+## Internal Tools Maker
+- build internal tools fast: https://retool.com/
+
 ## Product Usage tracking
 - FullStory
 - https://bookface.ycombinator.com/posts/56062

@@ -12,6 +12,9 @@
 ## Copywriting
 - https://www.indiehackers.com/post/17-tips-for-great-copywriting-5d4786ddf7
 
+## Designers
+- https://bookface.ycombinator.com/posts/56881
+
 ## Documentation
 - https://www.divio.com/en/blog/documentation/
 

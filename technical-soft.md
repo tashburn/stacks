@@ -91,6 +91,9 @@
 - front end checklist: https://github.com/thedaviddias/Front-End-Checklist
 - simple tech deployment: https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1
 
+## Techniques
+- do not sort by average rating: https://www.evanmiller.org/how-not-to-sort-by-average-rating.html
+
 ## Website Building
 - Best practice for early stage: design in Figma, build in Webflow
 - https://bookface.ycombinator.com/posts/55125	

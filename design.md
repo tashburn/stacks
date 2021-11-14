@@ -52,6 +52,7 @@
 ## Logos
 - make a logo yourself: https://blog.themeskingdom.com/how-to-make-your-own-logo-from-scratch/
 - https://medium.com/swlh/what-makes-a-great-logo-c7b0e8c4b9e3
+- Design a logo quickly/free: https://www.canva.com/
 
 ## Principles
 - http://www.nytimes.com/2008/06/09/arts/09iht-design9.1.13525567.html

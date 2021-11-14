@@ -69,6 +69,7 @@
 ## Marketing
 - https://userlist.com/ (Email marketing automation for SaaS)
 - open source project marketing: https://skerritt.blog/make-popular-open-source-projects/
+- https://skerritt.blog/make-popular-open-source-projects/
 
 ## Rate Limiting
 - https://medium.com/figma-design/an-alternative-approach-to-rate-limiting-f8a06cf7c94c

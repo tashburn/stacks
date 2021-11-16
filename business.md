@@ -419,3 +419,4 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Cleary
 - Gitbook
 - [FocalBoard](https://www.focalboard.com/)
+- notion open-source alternative: https://www.appflowy.io/

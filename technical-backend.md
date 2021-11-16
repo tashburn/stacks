@@ -126,6 +126,14 @@
   - "Kubernetes cluster per region with a CNI like Kilo which establishes a peer-to-peer network over Wireguard tunnels"
 
 
+## "Modern" Data Stack
+- Snowflake
+- Bigquery
+- dbt
+- Airflow
+- Kafka
+
+
 ## Monitoring / Instrumentation / Alerting
 - Checklist: https://littlewarden.com/features
 - Uptime Robot

@@ -49,6 +49,7 @@
 - Scylladb
 - SQLite
 - Ceph (used at CERN)
+- https://planetscale.com/
 
 
 ## Deployment

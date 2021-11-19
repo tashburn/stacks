@@ -261,7 +261,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Clearbit - marketing data engine
 - avoid ads: https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/
 - product marketing: https://sharebird.com/ama/square-product-marketing-lead-pos-agustina-sacerdote-on-market-research
-
+- agencies:
+  - https://bookface.ycombinator.com/posts/57143
 
 # Hiring
 - How to interview someone: “Lesson number one, when people ask me what [interviewing] tips would I give, is aim for the heart, not the head. Once you get the heart, you can go to the head. Once you get the heart and the head, then you’ll have a pathway to the soul.”

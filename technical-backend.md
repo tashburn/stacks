@@ -23,6 +23,13 @@
 - Redis
 
 
+## Config Formats
+- https://amzn.github.io/ion-docs/
+- toml 
+- yaml
+- json
+
+
 ## Continuous Integration / Continuous Deployment
 - Github actions
 - Cloudflare pages

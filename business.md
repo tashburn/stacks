@@ -234,6 +234,10 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - pitching using Pixar's script: https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars
 
 
+# Governance
+- startup boards: https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html
+
+
 # Growth / Marketing
 - How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
 - How to market your product/service/company: https://news.ycombinator.com/item?id=13853199

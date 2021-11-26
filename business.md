@@ -415,7 +415,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - OKRs vs KPIs: https://userpilot.com/blog/okrs-vs-kpis/
 - Tools:
   - Lattice (YC) 
-
+- Individuals Matter: https://danluu.com/people-matter/
 
 # Wikis / Knowledge Base
 - https://bookface.ycombinator.com/posts/56914

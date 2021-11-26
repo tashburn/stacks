@@ -152,6 +152,8 @@
 - Apollo to handle email
 - Zendesk Sell
 - Salesforce
+- Jestor + Mailgun
+- Zoho
 
 
 # Customer Discovery

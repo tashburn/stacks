@@ -30,6 +30,7 @@
 - designing large-scale systems: https://github.com/donnemartin/system-design-primer
 - Building in Public: https://bookface.ycombinator.com/posts/49718
 - Software engineering advice: https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+- From Delos Tech Lead: https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html
 
 ## Bug Trackers
 - https://bookface.ycombinator.com/posts/56944

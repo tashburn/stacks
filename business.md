@@ -419,6 +419,9 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - Lattice (YC) 
 - Individuals Matter: https://danluu.com/people-matter/
 
+# Team Collaboration Software
+- Whiteboard: https://miro.com/pricing/
+
 # Wikis / Knowledge Base
 - https://bookface.ycombinator.com/posts/56914
 - Confluence

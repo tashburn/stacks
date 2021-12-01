@@ -240,7 +240,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - startup boards: https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html
 
 
-# Growth / Marketing
+# Growth / Marketing / Branding
 - How to leak to the press: http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/
 - How to market your product/service/company: https://news.ycombinator.com/item?id=13853199
 - How to do a Kickstarter: https://www.shopmoment.com/momentist/the-complete-guide-to-succeeding-on-kickstarter-in-2017-everything-we-learned-in-raising-1-5m
@@ -269,6 +269,8 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - product marketing: https://sharebird.com/ama/square-product-marketing-lead-pos-agustina-sacerdote-on-market-research
 - agencies:
   - https://bookface.ycombinator.com/posts/57143
+- Branding: https://news.ycombinator.com/item?id=29382127
+
 
 # Hiring
 - How to interview someone: “Lesson number one, when people ask me what [interviewing] tips would I give, is aim for the heart, not the head. Once you get the heart, you can go to the head. Once you get the heart and the head, then you’ll have a pathway to the soul.”

@@ -302,6 +302,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Finding people
   - "As a freelancer, I frequently check r/forhire and Hacker News monthly freelancer/seeking freelancer threads. I find quality of clients and other freelancers much better there than on Upwork or Freelancer.com."
   - YC remote dev jobs company: https://arc.dev/
+- How to hire great programmers: https://youtu.be/6X-Ws9vsTxo
 
 # HR
 - https://bookface.ycombinator.com/posts/56367

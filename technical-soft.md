@@ -32,6 +32,7 @@
 - Building in Public: https://bookface.ycombinator.com/posts/49718
 - Software engineering advice: https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 - From Delos Tech Lead: https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html
+- Veteran lessons: https://twitter.com/dan_abramov/status/1470613731071696896
 
 ## Bug Trackers
 - https://bookface.ycombinator.com/posts/56944

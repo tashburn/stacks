@@ -57,6 +57,7 @@
 - SQLite
 - Ceph (used at CERN)
 - https://planetscale.com/
+- https://planetscale.com/
 
 
 ## Deployment
@@ -69,6 +70,8 @@
 - Hashicorp Nomad
 - Civo
 - K3s
+- Cloud Run
+
 
 ## Documentation
 - https://counterexamples.org/distinctness-injectivity.html

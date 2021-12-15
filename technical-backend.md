@@ -60,6 +60,12 @@
 - https://planetscale.com/
 
 
+## Data Warehousing, ETL, ELT
+- https://airbyte.io/ (YC)
+- https://bookface.ycombinator.com/posts/57629
+- Snowflake
+
+
 ## Deployment
 - Ansible
 - Terraform

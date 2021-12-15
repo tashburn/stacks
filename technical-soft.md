@@ -16,6 +16,7 @@
 - https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html
 - [https://news.ycombinator.com/item?id=28299053](https://news.ycombinator.com/item?id=28299053)
 - https://runninginproduction.com/
+- tech stacks for a new startup: https://news.ycombinator.com/item?id=29530391
 
 ## Advice
 - effective developers: https://martinfowler.com/articles/developer-effectiveness.html

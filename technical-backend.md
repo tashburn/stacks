@@ -196,6 +196,11 @@
 - "we also make sure to run on private networks, and that any user-facing application is kept behind a WAF. For this, we use the popular ModSecurity alongside the OWASP foundation's Core Rule Set and monitor closely or automatically block suspicious requests."
 
 
+## Version Control
+- git
+- perforce
+- plasticSCM
+
 
 ## Virtual Machines
 - KVM

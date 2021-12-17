@@ -424,6 +424,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Tools:
   - Lattice (YC) 
 - Individuals Matter: https://danluu.com/people-matter/
+- Big list of OKRs: https://hypercontext.com/goal-examples
 
 # Team Collaboration Software
 - Whiteboard: https://miro.com/pricing/

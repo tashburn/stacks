@@ -425,6 +425,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - Lattice (YC) 
 - Individuals Matter: https://danluu.com/people-matter/
 - Big list of OKRs: https://hypercontext.com/goal-examples
+- CIA Simple Sabotage (what not to do): http://svn.cacert.org/CAcert/CAcert_Inc/Board/oss/oss_sabotage.html
 
 # Team Collaboration Software
 - Whiteboard: https://miro.com/pricing/

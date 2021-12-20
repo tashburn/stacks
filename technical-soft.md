@@ -40,6 +40,9 @@
 ## Community Software
 - https://bookface.ycombinator.com/posts/56458
 
+## CMS (Content Management System)
+- https://www.sanity.io/
+
 ## Deployment
 - checklist: https://github.com/mr-mig/going-to-production
 

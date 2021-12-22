@@ -171,6 +171,10 @@
   - OpenReplay
 
 
+# ORMs
+- Typescript/JS: Prisma
+
+
 ## Payments
 - Stripe
 - https://primer.io/ (connects multiple payment providers and does failover)

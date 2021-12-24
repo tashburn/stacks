@@ -17,6 +17,7 @@
 - [https://news.ycombinator.com/item?id=28299053](https://news.ycombinator.com/item?id=28299053)
 - https://runninginproduction.com/
 - tech stacks for a new startup: https://news.ycombinator.com/item?id=29530391
+- website performance checker: https://pagespeed.web.dev/report?url=https%3A%2F%2Fgoogle.com%2F
 
 ## Advice
 - effective developers: https://martinfowler.com/articles/developer-effectiveness.html

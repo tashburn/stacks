@@ -21,6 +21,7 @@
 - Styled-Components
 
 # Charting Libs 
+- list: https://www.datasciencecentral.com/profiles/blogs/8-free-popular-javascript-charting-libraries
 - [ECharts](https://echarts.apache.org/en/index.html),
 - ChartJS
 - https://observablehq.com/@observablehq/plot
@@ -34,6 +35,10 @@
 - https://apexcharts.com/javascript-chart-demos/
 - https://chartscss.org/
 - https://3b1b.github.io/manim/index.html
+- nice, not free: https://cosaic.io/chartiq/
+- google charts
+- https://www.zingchart.com/docs/tutorials/features/zoom-scroll-preview
+
 
 # Icons 
 - https://react-icons.github.io/react-icons/
@@ -72,15 +77,15 @@
 
 
 # UI Component Libs
-[Ant](https://ant.design/components/overview/),
-[Semantic UI](https://react.semantic-ui.com/elements/button/),
-[Material UI](https://material-ui.com/),
-[Chakra](https://chakra-ui.com/theme),
-[Blueprint](https://blueprintjs.com/docs/#core/components/skeleton),
-[React-Bootstrap](https://react-bootstrap.github.io/components/alerts/),
-[Rebass](https://rebassjs.org/forms/checkbox),
-[Evergreen](https://evergreen.segment.com/components/),
-[Fluent](https://developer.microsoft.com/en-us/fluentui#/)
+- [Ant](https://ant.design/components/overview/)
+- [Semantic UI](https://react.semantic-ui.com/elements/button/)
+- [Material UI](https://material-ui.com/)
+- [Chakra](https://chakra-ui.com/theme)
+- [Blueprint](https://blueprintjs.com/docs/#core/components/skeleton)
+- [React-Bootstrap](https://react-bootstrap.github.io/components/alerts/)
+- [Rebass](https://rebassjs.org/forms/checkbox)
+- [Evergreen](https://evergreen.segment.com/components/)
+- [Fluent](https://developer.microsoft.com/en-us/fluentui#/)
 
 
 # UI Frameworks	

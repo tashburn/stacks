@@ -44,7 +44,7 @@
 - tips on defending a physical product: https://medium.com/@molson_hart/starting-a-physical-product-company-youre-gonna-need-a-lawyer-13b2eecebc9f
 - lean product development flow: https://www.youtube.com/watch?v=L6v6W7jkwok
 - personal productivity: https://qotoqot.com/blog/improving-focus/
-
+- how to be tax efficient, handle profit: https://news.ycombinator.com/item?id=29779944
 
 # Analytics
 - Posthog

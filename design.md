@@ -42,6 +42,7 @@
 - https://randsinrepose.com/archives/ok-so-you-cant-decide/
 - fonts: https://writings.stephenwolfram.com/2021/09/even-beyond-physics-introducing-multicomputation-as-a-fourth-general-paradigm-for-theoretical-science/
 - [Webflow University](https://university.webflow.com/lessons-overview)
+- https://tonsky.me/blog/syncthing/
 
 ## Landing Pages
 - https://www.cortes.design/post/best-saas-landing-page-examples-inspiration

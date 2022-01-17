@@ -156,6 +156,9 @@
 - Zoho
 
 
+# CTO
+- handbook: https://bookface.ycombinator.com/posts/58225
+
 # Customer Discovery
 - https://othmane.io/writing/how_to_find_problems_to_solve
 - ATF Process (Annoying, Time consuming, Frustrating problem discovery process)

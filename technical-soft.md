@@ -18,6 +18,7 @@
 - https://runninginproduction.com/
 - tech stacks for a new startup: https://news.ycombinator.com/item?id=29530391
 - website performance checker: https://pagespeed.web.dev/report?url=https%3A%2F%2Fgoogle.com%2F
+- SQL db visual browser: https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/
 
 ## Advice
 - effective developers: https://martinfowler.com/articles/developer-effectiveness.html

@@ -64,10 +64,11 @@
 - https://planetscale.com/
 
 
-## Data Warehousing, ETL, ELT
+## Data Warehousing, ETL, ELT, Analytics
 - https://airbyte.io/ (YC)
 - https://bookface.ycombinator.com/posts/57629
 - Snowflake
+- Cube: https://cube.dev/
 
 
 ## Deployment

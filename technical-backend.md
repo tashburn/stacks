@@ -110,6 +110,7 @@
 - K3s
 - https://www.kimsufi.com/us/en/ (cheap dedicated)
 - OVH
+- Fly.io https://fly.io/
 
 
 ## Https Proxy

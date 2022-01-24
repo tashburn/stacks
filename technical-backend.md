@@ -9,6 +9,7 @@
 ## Lists / Writeups
 - https://mangadex.dev/mangadex-v5-infrastructure-overview/
 - one-person deployment, self hosting: https://cprimozic.net/blog/my-selfhosted-websites-architecture/
+- backend infrastructure list: https://github.com/khuedoan/homelab
 
 ## Admin Interfaces
 - https://www.getmotoradmin.com/

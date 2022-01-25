@@ -347,6 +347,10 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Thinking tools: https://untools.co/eisenhower-matrix
 
 
+# Presentations / Public Speaking
+- https://austinhenley.com/blog/lessonsfrommyphd.html
+
+
 # Pricing
 - How to price your product/service: https://news.ycombinator.com/item?id=13840282
 - https://conversionxl.com/blog/pricing-experiments-you-might-not-know-but-can-learn-from/

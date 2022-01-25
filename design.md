@@ -19,6 +19,9 @@
 ## Documentation
 - https://www.divio.com/en/blog/documentation/
 
+## Document Templates
+- https://business.tutsplus.com/articles/microsoft-office-word-document-templates--cms-34053
+
 ## Fonts
 - Atkinson Hyperlegible
 - NBI Pro Bold, https://www.optimizely.com/

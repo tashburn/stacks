@@ -35,6 +35,7 @@
 - Open Sans
 - Source Sans Pro (looks good small on monitor)
 - Coding Font Chooser: https://www.codingfont.com/
+- Nice text: https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/
 
 ## HTML Emails
 - https://mailstudio.app/

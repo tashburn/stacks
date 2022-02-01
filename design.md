@@ -37,6 +37,7 @@
 - Source Sans Pro (looks good small on monitor)
 - Coding Font Chooser: https://www.codingfont.com/
 - Nice text: https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/
+- Nice text: https://developers.bloomreach.com/blog/2021/headless-cms-and-the-jamstack-explained.html#
 
 ## HTML Emails
 - https://mailstudio.app/

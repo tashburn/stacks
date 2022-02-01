@@ -189,6 +189,13 @@
 - https://primer.io/ (connects multiple payment providers and does failover)
 
 
+## Secrets Management
+- https://bookface.ycombinator.com/posts/58578#comment-160437
+- Doppler
+- EnvKey
+- AWS Secrets
+
+
 ## Security / Authentication
 - How to secure your SAAS startup
   - https://github.com/forter/security-101-for-saas-startups  

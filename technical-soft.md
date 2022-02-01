@@ -51,6 +51,7 @@
 ## Documentation
 - https://github.com/testthedocs/awesome-docs
 - https://github.com/unicodeveloper/awesome-documentation-tools
+- https://bookface.ycombinator.com/posts/58598
 - examples of good documentation
   - https://github.com/scottydocs/awesome-docs
   - https://github.com/PharkMillups/beautiful-docs

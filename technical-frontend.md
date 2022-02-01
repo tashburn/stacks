@@ -38,6 +38,9 @@
 - nice, not free: https://cosaic.io/chartiq/
 - google charts
 - https://www.zingchart.com/docs/tutorials/features/zoom-scroll-preview
+- services:
+	- Datawrapper
+	- Tableu (public 
 
 
 # Icons 

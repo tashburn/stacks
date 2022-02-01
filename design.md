@@ -15,6 +15,7 @@
 ## Designers
 - https://bookface.ycombinator.com/posts/56881
 - https://bookface.ycombinator.com/posts/57259
+- https://bookface.ycombinator.com/posts/58569
 
 ## Documentation
 - https://www.divio.com/en/blog/documentation/

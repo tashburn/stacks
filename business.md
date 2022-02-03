@@ -378,6 +378,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - https://bookface.ycombinator.com/posts/44928
 - payments: Deel
 - whiteboard: https://offbyone.us/posts/why-is-excalidraw-so-good/
+- tools: https://miro.com/
 
 
 # Resources/

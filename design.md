@@ -23,6 +23,11 @@
 ## Document Templates
 - https://business.tutsplus.com/articles/microsoft-office-word-document-templates--cms-34053
 
+## Examples of Good Design
+- Linear
+- Notion
+- Apple stuff
+
 ## Fonts
 - Atkinson Hyperlegible
 - NBI Pro Bold, https://www.optimizely.com/

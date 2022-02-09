@@ -41,7 +41,9 @@
 - services:
 	- Datawrapper
 	- Tableu (public 
-
+- interactive charts: 
+ 	- https://vega.github.io/vega/about/vega-and-d3/
+	- Even higher-level - https://vega.github.io/vega-lite/
 
 # Icons 
 - https://react-icons.github.io/react-icons/

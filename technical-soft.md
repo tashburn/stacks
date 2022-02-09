@@ -55,6 +55,8 @@
 - examples of good documentation
   - https://github.com/scottydocs/awesome-docs
   - https://github.com/PharkMillups/beautiful-docs
+- documentation tool and CMS: https://bookface.ycombinator.com/posts/58841
+- doc tools: https://bookface.ycombinator.com/posts/58862
 
 ## Domain Names
 - How to get an expiring domain: https://bookface.ycombinator.com/posts/5842

@@ -72,6 +72,9 @@
 - https://bookface.ycombinator.com/posts/57629
 - Snowflake
 - Cube: https://cube.dev/
+- Segment for customer data
+- metabase
+- stitchdata
 
 
 ## Deployment

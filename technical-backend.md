@@ -64,6 +64,7 @@
 - Ceph (used at CERN)
 - https://planetscale.com/
 - https://planetscale.com/
+- EdgeDB
 
 
 ## Data Warehousing, ETL, ELT, Analytics

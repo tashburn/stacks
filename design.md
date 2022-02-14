@@ -5,9 +5,9 @@
 {:toc}
 
 
+
 ## Agencies
 - https://bookface.ycombinator.com/posts/56054
-
 
 ## Copywriting
 - https://www.indiehackers.com/post/17-tips-for-great-copywriting-5d4786ddf7
@@ -76,6 +76,7 @@
 - design tools list: https://github.com/LisaDziuba/Awesome-Design-Tools
 - design blocks: https://www.froala.com/design-blocks#playground
 - principles: https://principles.design/
+- https://bookface.ycombinator.com/posts/58986
 
 ## Software
 - Parade: Makes it easy to create a website, marketing emails, social media posts, and more, all without a graphic designer

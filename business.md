@@ -154,6 +154,8 @@
 - Salesforce
 - Jestor + Mailgun
 - Zoho
+- Copper
+- intercom (not meanas CRM, but good for running campaigns and support tickets)
 
 
 # CTO

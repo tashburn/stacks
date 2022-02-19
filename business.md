@@ -437,6 +437,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 
 # Team Collaboration Software
 - Whiteboard: https://miro.com/pricing/
+- "Using Notion at a startup" https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup
 
 # Wikis / Knowledge Base
 - https://bookface.ycombinator.com/posts/56914

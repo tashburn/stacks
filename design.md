@@ -55,6 +55,7 @@
 - [Webflow University](https://university.webflow.com/lessons-overview)
 - https://tonsky.me/blog/syncthing/
 - https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+- https://workspace.google.com/features/?utm_source=slidesforwork&utm_medium=et&utm_content=hero&hl=en
 
 ## Landing Pages
 - https://www.cortes.design/post/best-saas-landing-page-examples-inspiration

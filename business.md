@@ -239,7 +239,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
 - Funding creative endeavors: http://worrydream.com/2017-12-30-alan/
 - https://bookface.ycombinator.com/posts/55914
 - pitching using Pixar's script: https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars
-
+- NSF grant writing tips: https://austinhenley.com/blog/500kgrant.html
 
 # Governance
 - startup boards: https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html

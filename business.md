@@ -309,6 +309,7 @@ From the beginning I was careful about only funding earnest people. Back then, I
   - YC remote dev jobs company: https://arc.dev/
 - How to hire great programmers: https://youtu.be/6X-Ws9vsTxo
 - How to hire engineers: https://bookface.ycombinator.com/posts/57735
+- Where to hire good engineers: https://www.toptal.com/
 
 
 # HR
